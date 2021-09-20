@@ -12,7 +12,7 @@ export const ModuleList = (props) => {
         <Card style={{ width: "30rem" }}>
           <div className="p-d-flex">
             <div>
-              <img src={module.imageLink} alt={`${module.name} - ${module.description}`} />
+              <img height="230px" src={module.imageLink} alt={`${module.name} - ${module.description}`} />
             </div>
             <div className="p-ml-4">
               <h4>{module.name}</h4>

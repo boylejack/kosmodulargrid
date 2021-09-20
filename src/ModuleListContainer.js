@@ -4,21 +4,11 @@ import { ModuleList } from './ModuleList'
 
 export const ModuleListContainer = () => {
 
-  const [makers, setMakers] = useState([]);
   const [modules, setModules] = useState([]);
-  const [makersLoading, setMakersLoading] = useState(true);
+  const [makers, setMakers] = useState([]);
   const [modulesLoading, setModulesLoading] = useState(true);
+  const [makersLoading, setMakersLoading] = useState(true);
   const [error, setError] = useState(false);
-
-  useEffect(() => {
-    fetch("/data/makers.json")
-    .then((response) => response.json())
-    .then((data) => {
-      setMakers(data);
-      setMakersLoading(false);
-    })
-    .catch((error) => setError(true))
-  }, []);
 
   useEffect(() => {
     fetch("/data/modules.json")
@@ -30,10 +20,20 @@ export const ModuleListContainer = () => {
     .catch((error) => setError(true))
   }, []);
 
+  useEffect(() => {
+    fetch("/data/makers.json")
+    .then((response) => response.json())
+    .then((data) => {
+      setMakers(data);
+      setMakersLoading(false);
+    })
+    .catch((error) => setError(true))
+  }, []);
+
   if (!modulesLoading && !makersLoading && !error) {
     return (
       <>
-        <ModuleFilter makers={makers} modules={modules} />
+        <ModuleFilter modules={modules} />
         <ModuleList makers={makers} modules={modules} />
       </>
     )

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "5b93d5d2-5af1-4b2c-be3c-f143479a1edd",
+    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+    "function": [
+      "filter"
+    ],
+    "name": "Passive Filter",
+    "description": "A simple passive filter module",
+    "hp": 4,
+    "type": [
+      "pcb+panel"
+    ],
+    "link": "https://www.google.com",
+    "imageLink": "https://placekitten.com/200/300"
+  }
+]

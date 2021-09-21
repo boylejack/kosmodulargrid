@@ -15,44 +15,44 @@
     "imageLink": "https://placekitten.com/200/300"
   },
   {
-    "id": "5b93d5d2-5af1-4b2c-be3c-f143479a1edd",
+    "id": "24c381ea-ba44-4c61-86a4-c3917e42e946",
     "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
     "function": [
-      "filter"
+      "vca"
     ],
-    "name": "Passive Filter",
-    "description": "A simple passive filter module",
-    "hp": 4,
+    "name": "VCA",
+    "description": "VCA with two channels",
+    "hp": 2,
     "type": [
-      "pcb+panel"
+      "schematic"
     ],
     "link": "https://www.google.com",
     "imageLink": "https://placekitten.com/200/300"
   },
   {
-    "id": "5b93d5d2-5af1-4b2c-be3c-f143479a1edd",
+    "id": "29e9f25e-4b13-40e0-8c59-cba26db6f408",
     "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
     "function": [
-      "filter"
+      "mixer"
     ],
-    "name": "Passive Filter",
-    "description": "A simple passive filter module",
+    "name": "Mixer",
+    "description": "6 channel mixer with cue bus",
     "hp": 4,
     "type": [
-      "pcb+panel"
+      "full kit"
     ],
     "link": "https://www.google.com",
     "imageLink": "https://placekitten.com/200/300"
   },
   {
-    "id": "5b93d5d2-5af1-4b2c-be3c-f143479a1edd",
+    "id": "5606ebaa-39d4-4ecc-8083-b86c5fdc74af",
     "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
     "function": [
-      "filter"
+      "sequencer"
     ],
-    "name": "Passive Filter",
-    "description": "A simple passive filter module",
-    "hp": 4,
+    "name": "Baby 8 Sequencer",
+    "description": "",
+    "hp": 16,
     "type": [
       "pcb+panel"
     ],

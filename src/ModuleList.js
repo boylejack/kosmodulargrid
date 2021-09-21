@@ -17,7 +17,11 @@ export const ModuleList = (props) => {
                 </div>
                 <div className="p-ml-4 p-d-flex p-flex-column p-jc-between">
                   <div>
-                    <h4>{module.name}</h4>
+                    <h4>
+                      <a href={module.link} target="_blank" rel="noreferrer">
+                        {module.name}
+                      </a>
+                    </h4>
                     <h5>{makers.find((maker) => maker.id === module.makerId).name}</h5>
                     <p>{module.description}</p>
                   </div>

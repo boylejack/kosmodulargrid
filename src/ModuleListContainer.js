@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react'
-import { ModuleFilter } from './ModuleFilter'
 import { ModuleList } from './ModuleList'
 
 export const ModuleListContainer = () => {
@@ -33,7 +32,6 @@ export const ModuleListContainer = () => {
   if (!modulesLoading && !makersLoading && !error) {
     return (
       <>
-        <ModuleFilter modules={modules} />
         <ModuleList makers={makers} modules={modules} />
       </>
     )

@@ -12,7 +12,7 @@ export const ModuleListContainer = () => {
   const [selectedFilters, setSelectedFilters] = useState({
     function: [],
     makerId: [],
-    hp: [],
+    width: [],
     type: []
   });
 

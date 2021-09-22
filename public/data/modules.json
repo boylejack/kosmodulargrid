@@ -7,7 +7,7 @@
     ],
     "name": "Passive Filter",
     "description": "A simple passive filter module",
-    "hp": 4,
+    "width": 10,
     "type": [
       "PCB + Panel"
     ],
@@ -22,7 +22,7 @@
     ],
     "name": "VCA",
     "description": "VCA with two channels",
-    "hp": 2,
+    "width": 5,
     "type": [
       "Schematic"
     ],
@@ -37,7 +37,7 @@
     ],
     "name": "Mixer",
     "description": "6 channel mixer with cue bus",
-    "hp": 4,
+    "width": 10,
     "type": [
       "Full Kit"
     ],
@@ -52,7 +52,7 @@
     ],
     "name": "Baby 8 Sequencer",
     "description": "",
-    "hp": 16,
+    "width": 40,
     "type": [
       "PCB + Panel"
     ],

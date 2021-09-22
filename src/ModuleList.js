@@ -10,7 +10,7 @@ export const ModuleList = (props) => {
       {modules
       .filter((module) => !selectedFilters.function || selectedFilters.function.length === 0 || selectedFilters.function.filter((fctn) => module.function.indexOf(fctn) >= 0).reduce((p,c) => p || c, false))
       .filter((module) => !selectedFilters.type || selectedFilters.type.length === 0 || selectedFilters.type.filter((t) => module.type.indexOf(t) >= 0).reduce((p,c) => p || c, false))
-      .filter((module) => !selectedFilters.hp || selectedFilters.hp.length === 0 || selectedFilters.hp.indexOf(module.hp) >= 0)
+      .filter((module) => !selectedFilters.width || selectedFilters.width.length === 0 || selectedFilters.width.indexOf(module.width) >= 0)
       .filter((module) => !selectedFilters.makerId || selectedFilters.makerId.length === 0 || selectedFilters.makerId.indexOf(module.makerId) >= 0)
       .map(module => {
         return (
@@ -32,7 +32,7 @@ export const ModuleList = (props) => {
                   </div>
                   <div>
                     <div className="p-mt-2">
-                      <Tag severity="info" className="p-mr-2 p-mt-2" value={`${module.hp} HP`} />
+                      <Tag severity="info" className="p-mr-2 p-mt-2" value={`${module.width} cm`} />
                       {
                         module.function.map((fctn) => <Tag key={fctn} className="p-mr-2 p-mt-2" value={fctn}/>)
                       }

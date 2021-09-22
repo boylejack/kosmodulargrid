@@ -3,13 +3,18 @@ import { Card } from 'primereact/card';
 import { Tag } from 'primereact/tag';
 
 export const ModuleList = (props) => {
-  const { modules, makers } = props;
+  const { modules, makers, selectedFilters } = props;
 
   return (
     <div className="p-grid">
-      {modules.map(module => {
+      {modules
+      .filter((module) => !selectedFilters.function || selectedFilters.function.length === 0 || selectedFilters.function.filter((fctn) => module.function.indexOf(fctn) >= 0).reduce((p,c) => p || c, false))
+      .filter((module) => !selectedFilters.type || selectedFilters.type.length === 0 || selectedFilters.type.filter((t) => module.type.indexOf(t) >= 0).reduce((p,c) => p || c, false))
+      .filter((module) => !selectedFilters.hp || selectedFilters.hp.length === 0 || selectedFilters.hp.indexOf(module.hp) >= 0)
+      .filter((module) => !selectedFilters.makerId || selectedFilters.makerId.length === 0 || selectedFilters.makerId.indexOf(module.makerId) >= 0)
+      .map(module => {
         return (
-          <div className="p-col-12 p-md-4">
+          <div className="p-col-12 p-md-6 p-lg-4" key={module.id}>
             <Card>
               <div className="p-d-flex">
                 <div>
@@ -29,10 +34,10 @@ export const ModuleList = (props) => {
                     <div className="p-mt-2">
                       <Tag severity="info" className="p-mr-2 p-mt-2" value={`${module.hp} HP`} />
                       {
-                        module.function.map((fctn) => <Tag className="p-mr-2 p-mt-2" value={fctn}/>)
+                        module.function.map((fctn) => <Tag key={fctn} className="p-mr-2 p-mt-2" value={fctn}/>)
                       }
                       {
-                        module.type.map((type) => <Tag severity="success" className="p-mr-2 p-mt-2" value={type}/>)
+                        module.type.map((type) => <Tag key={type} severity="success" className="p-mr-2 p-mt-2" value={type}/>)
                       }
                     </div>
                   </div>

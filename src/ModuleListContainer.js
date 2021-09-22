@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react'
+import { ModuleFilter } from './ModuleFilter';
 import { ModuleList } from './ModuleList'
 
 export const ModuleListContainer = () => {
@@ -8,6 +9,17 @@ export const ModuleListContainer = () => {
   const [modulesLoading, setModulesLoading] = useState(true);
   const [makersLoading, setMakersLoading] = useState(true);
   const [error, setError] = useState(false);
+  const [selectedFilters, setSelectedFilters] = useState({
+    function: [],
+    makerId: [],
+    hp: [],
+    type: []
+  });
+
+  const handleChange = (filters) => {
+    console.log(filters);
+    setSelectedFilters(filters);
+  }
 
   useEffect(() => {
     fetch("/data/modules.json")
@@ -32,7 +44,8 @@ export const ModuleListContainer = () => {
   if (!modulesLoading && !makersLoading && !error) {
     return (
       <>
-        <ModuleList makers={makers} modules={modules} />
+        <ModuleFilter modules={modules} makers={makers} handleChange={handleChange} />
+        <ModuleList makers={makers} modules={modules} selectedFilters={selectedFilters} />
       </>
     )
   } else if (error) {

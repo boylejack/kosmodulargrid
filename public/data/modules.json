@@ -3,61 +3,271 @@
     "id": "5b93d5d2-5af1-4b2c-be3c-f143479a1edd",
     "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
     "function": [
-      "Filter"
+      "VCO"
     ],
-    "name": "Passive Filter",
-    "description": "A simple passive filter module",
+    "name": "1222 Performance VCO",
+    "description": "A VCO based on the CEM3340 chip.",
     "width": 10,
     "type": [
       "PCB + Panel"
     ],
-    "link": "https://www.google.com",
-    "imageLink": "https://placekitten.com/200/300"
+    "link": "https://store.lookmumnocomputer.com/collections/modules/products/1112-performance-filter",
+    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/1222_Performance_filter_1024x1024@2x.jpg?v=1617290457"
   },
   {
     "id": "24c381ea-ba44-4c61-86a4-c3917e42e946",
     "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
     "function": [
-      "VCA"
+      "Filter"
     ],
-    "name": "VCA",
-    "description": "VCA with two channels",
-    "width": 5,
+    "name": "1113 Performance Filter",
+    "description": "MS20 style filter based on the René Schmitz design",
+    "width": 20,
     "type": [
-      "Schematic"
+      "PCB + Panel"
     ],
-    "link": "https://www.google.com",
-    "imageLink": "https://placekitten.com/200/300"
+    "link": "https://store.lookmumnocomputer.com/collections/modules/products/1113-kosmo-2-0-performance-filter",
+    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/1113_-_Pic1_1024x1024@2x.jpg?v=1617289125"
   },
   {
     "id": "29e9f25e-4b13-40e0-8c59-cba26db6f408",
     "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
     "function": [
-      "Mixer"
+      "Delay"
     ],
-    "name": "Mixer",
-    "description": "6 channel mixer with cue bus",
+    "name": "2399 Triple Splashback Delay",
+    "description": "Delay module based on the PT2399 chip",
     "width": 10,
     "type": [
-      "Full Kit"
+      "PCB + Panel"
     ],
-    "link": "https://www.google.com",
-    "imageLink": "https://placekitten.com/200/300"
+    "link": "https://store.lookmumnocomputer.com/collections/modules/products/2399-triple-splashback-delay",
+    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/2399Mainnew_1024x1024@2x.png?v=1617290595"
   },
   {
     "id": "5606ebaa-39d4-4ecc-8083-b86c5fdc74af",
     "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
     "function": [
-      "Sequencer"
+      "Mixer"
     ],
-    "name": "Baby 8 Sequencer",
-    "description": "",
+    "name": "1163 Mixer",
+    "description": "6 channel mixer suitable for audio or cv.",
+    "width": 5,
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://store.lookmumnocomputer.com/collections/modules/products/1163-mini-mixer",
+    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/1.3_1024x1024@2x.jpg?v=1617289568"
+  },
+  {
+    "id": "d97af3bd-bc5b-46c3-b2c7-5ba8d9af832a",
+    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+    "function": [
+      "VCO"
+    ],
+    "name": "2000 Megadrone 10 Oscillator",
+    "description": "A bank of 10 oscillators from the Megadrone.",
     "width": 40,
     "type": [
       "PCB + Panel"
     ],
-    "link": "https://www.google.com",
-    "imageLink": "https://placekitten.com/200/300"
+    "link": "https://store.lookmumnocomputer.com/collections/modules/products/2000-megadrone-10-oscillator-panel-pcb-set",
+    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/20001_1024x1024@2x.png?v=1617290525"
+  },
+  {
+    "id": "8d7a73cf-59e4-4044-9c15-95097ffcb2fc",
+    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+    "function": [
+      "VCA"
+    ],
+    "name": "1183 Quad VCA Mixer",
+    "description": "Quad VCA module designed around 2 AS3360 chips.",
+    "width": 10,
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://store.lookmumnocomputer.com/collections/modules/products/1184-quad-vca-mixer",
+    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/1184_1024x1024@2x.png?v=1617289755"
+  },
+  {
+    "id": "dbf4b9db-2ba5-4813-b076-048d1e90067c",
+    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+    "function": [
+      "LFO"
+    ],
+    "name": "1145 VCLFO",
+    "description": "VCLFO based on the VCLFO10 chip.",
+    "width": 10,
+    "type": [
+      "PCB + Panel", "Chipset"
+    ],
+    "link": "https://store.lookmumnocomputer.com/collections/modules/products/1145-kosmo-vclfo-lfo",
+    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/1145_-_Pic_4_1024x1024@2x.jpg?v=1574941260"
+  },
+  {
+    "id": "2e729b12-018c-43e3-a698-666eea61756d",
+    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+    "function": [
+      "Filter"
+    ],
+    "name": "1114 Filter Grr",
+    "description": "A new filter that is 'very odd'",
+    "width": 10,
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://store.lookmumnocomputer.com/collections/modules/products/1114-filter-grr",
+    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/14441_1024x1024@2x.png?v=1617289259"
+  },
+  {
+    "id": "586c881d-722a-4fe8-807f-7cd25d90a708",
+    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+    "function": [
+      "Multiple"
+    ],
+    "name": "1161 Dual Buffered Multiple",
+    "description": "Designed to split and buffer signal to make sure the juice doesn't get sucked out of the signal plugged in",
+    "width": 5,
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://store.lookmumnocomputer.com/collections/modules/products/1161-dual-buffered-multiple",
+    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/11611_1024x1024@2x.png?v=1617289512"
+  },
+  {
+    "id": "ebb981f1-8537-43e2-867e-ac08861fafde",
+    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+    "function": [
+      "Distortion"
+    ],
+    "name": "4710 Safety Valve",
+    "description": "A valve baed distortion module.",
+    "width": 5,
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://store.lookmumnocomputer.com/collections/modules/products/4710-safety-valve-panel-pcb-set",
+    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/47101_1024x1024@2x.png?v=1615303792"
+  },
+  {
+    "id": "31dc99e5-261c-444b-9bb8-95aed002c73d",
+    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+    "function": [
+      "Envelope Generator", "LFO"
+    ],
+    "name": "1153 Bounce....",
+    "description": "A bouncing ball simulator that has a lot more uses than you would expect",
+    "width": 5,
+    "type": [
+      "PCB + Panel", "Chipset"
+    ],
+    "link": "https://store.lookmumnocomputer.com/collections/modules/products/1153-bounce-bounce-bounce-bounce-bounce-bounce-bounce",
+    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/11531_1024x1024@2x.png?v=1617289363"
+  },
+  {
+    "id": "797a10f0-d634-43f9-8d86-1c9950fbdec5",
+    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+    "function": [
+      "Synthesiser Voice"
+    ],
+    "name": "Fart Box",
+    "description": "Limited edition white pcb to build a Fart Box",
+    "width": 20,
+    "type": [
+      "PCB"
+    ],
+    "link": "https://store.lookmumnocomputer.com/collections/modules/products/fart-box-pcb-limited-edition-white",
+    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/Fartbox1_1024x1024@2x.png?v=1590747567"
+  },
+  {
+    "id": "f0cea961-55b5-4dee-a8f9-56d0595c8bd4",
+    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+    "function": [
+      "MIDI"
+    ],
+    "name": "1007 MIDI-CV",
+    "description": "A MIDI to CV converter module based on the midimuso chip",
+    "width": 20,
+    "type": [
+      "PCB + Panel", "Chipset"
+    ],
+    "link": "https://store.lookmumnocomputer.com/collections/modules/products/1007-midimuso-midi-cv-module-pcb-panel-chipset",
+    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/100701_1024x1024@2x.png?v=1617289164"
+  },
+  {
+    "id": "4dc5d3f9-3d2f-4e6f-afff-2cb5c514c49e",
+    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+    "function": [
+      "Envelope Generator"
+    ],
+    "name": "1157 Mini ADSR",
+    "description": "ADSR Envelope Generator based on the ENVGEN8 chip.",
+    "width": 20,
+    "type": [
+      "PCB + Panel", "Chipset"
+    ],
+    "link": "https://store.lookmumnocomputer.com/collections/modules/products/1157-mini-adsr-chipset",
+    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/1157square_1024x1024@2x.png?v=1617289452"
+  },
+  {
+    "id": "064761c4-fcad-47ca-b089-c6ac4cc041b4",
+    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+    "function": [
+      "Attenuvertor"
+    ],
+    "name": "1171 O.B.A.",
+    "description": "Offset, Boost, Attenuvert",
+    "width": 5,
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://store.lookmumnocomputer.com/collections/modules/products/1171-o-b-a",
+    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/11711_1024x1024@2x.png?v=1617289606"
+  },
+  {
+    "id": "96431358-3ccb-4dca-93a6-414a8685862b",
+    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+    "function": [
+      "VCA"
+    ],
+    "name": "1181 Dual VCA",
+    "description": "Two channel VCA based on the AS3360 chip",
+    "width": 5,
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://store.lookmumnocomputer.com/collections/modules/products/1181-dual-vca",
+    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/1181_1024x1024@2x.png?v=1617289714"
+  },
+  {
+    "id": "1e6041d1-21e9-44f1-b344-2a2163a611ac",
+    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+    "function": [
+      "Drum"
+    ],
+    "name": "2700 Twin T Drummr",
+    "description": "Twin T drum module based on early organ drum voices",
+    "width": 5,
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://store.lookmumnocomputer.com/collections/modules/products/2700-twin-t-drummr",
+    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/1_1024x1024@2x.png?v=1621264562"
+  },
+  {
+    "id": "81900856-80d2-448e-ba0a-f28f24ee8d95",
+    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+    "function": [
+      "Sequencer"
+    ],
+    "name": "2001 Keyboard Sequencer",
+    "description": "A Sequencer based on an arduino nano that can also act like a keyboard.",
+    "width": 5,
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://store.lookmumnocomputer.com/collections/modules/products/2001-keyboard-sequencer",
+    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/1_8f9cb584-e918-4f36-9217-5333cb15cc3d_1080x.png?v=1628268716"
   },
   {
     "id": "39886925-d029-4e2c-a37f-5768f41c2ab4",

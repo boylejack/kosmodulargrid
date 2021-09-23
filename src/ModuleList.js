@@ -16,9 +16,9 @@ export const ModuleList = (props) => {
         return (
           <div className="p-col-12 p-md-6 p-lg-4" key={module.id}>
             <Card>
-              <div className="p-grid">
+              <div className="p-grid" style={{height: "350px"}}>
                 <div className="p-col-6">
-                  <img width="100%" src={module.imageLink} alt={`${module.name} - ${module.description}`} />
+                  <img style={{maxWidth: "100%", maxHeight: "100%", textAlign:'center'}} src={module.imageLink} alt={`${module.name} - ${module.description}`} />
                 </div>
                 <div className="p-d-flex p-col-6 p-flex-column p-jc-between">
                   <div>

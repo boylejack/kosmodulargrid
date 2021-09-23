@@ -58,5 +58,20 @@
     ],
     "link": "https://www.google.com",
     "imageLink": "https://placekitten.com/200/300"
+  },
+  {
+    "id": "39886925-d029-4e2c-a37f-5768f41c2ab4",
+    "makderId": "7b536185-7532-4af9-bcde-4b5595616377",
+    "function": [
+      "Sequencer"
+    ],
+    "name": "Evil Eye Sequencer",
+    "description": "Arduino-based sequencer with 8 steps and 2 voices.",
+    "width": 30,
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://github.com/TimMJN/Arduino-Sequencer",
+    "imageLink": "https://github.com/TimMJN/Arduino-Sequencer/blob/main/arduino_sequencer_build_photos/2021-03-04%2023.36.17.jpg?raw=true"
   }
 ]

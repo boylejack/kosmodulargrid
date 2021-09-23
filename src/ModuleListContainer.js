@@ -44,6 +44,7 @@ export const ModuleListContainer = () => {
   if (!modulesLoading && !makersLoading && !error) {
     return (
       <>
+        <p>{modules.length} modules from {makers.length} makers.</p>
         <ModuleFilter modules={modules} makers={makers} handleChange={handleChange} />
         <ModuleList makers={makers} modules={modules} selectedFilters={selectedFilters} />
       </>

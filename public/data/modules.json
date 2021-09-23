@@ -73,5 +73,50 @@
     ],
     "link": "https://github.com/TimMJN/Arduino-Sequencer",
     "imageLink": "https://github.com/TimMJN/Arduino-Sequencer/blob/main/arduino_sequencer_build_photos/2021-03-04%2023.36.17.jpg?raw=true"
-  }
+  },
+  {
+    "id": "d95e4bdf-4f1e-4577-8394-1a4dc9c70053",
+    "makerId": "7b536185-7532-4af9-bcde-4b5595616377",
+    "function": [
+      "Trigger Sequencer"
+    ],
+    "name": "Euclidean Rhythm Generator",
+    "description": "Arduino-based Euclidean rhythm sequencer with 16 steps and 4 voices.",
+    "width": 10,
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://github.com/TimMJN/Arduino-Euclidean-Rhythm-Generator",
+    "imageLink": "https://github.com/TimMJN/Arduino-Euclidean-Rhythm-Generator/blob/main/arduino_euclidean_rhythm_generator_build_photos/2021-07-24%2020.53.27.jpg?raw=true"
+  },
+  {
+    "id": "e013bd4f-3d60-4842-aca9-d9c6efc5970c",
+    "makerId": "7b536185-7532-4af9-bcde-4b5595616377",
+    "function": [
+      "Clock divider"
+    ],
+    "name": "Rotating Clock Divider",
+    "description": "Arduino-based clock divider with internal/external clocks, adjustable divisions and rotate function.",
+    "width": 10,
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://github.com/TimMJN/Arduino-Clock-Divider",
+    "imageLink": "https://github.com/TimMJN/Arduino-Clock-Divider/blob/main/arduino_clock_divider_build_photos/2021-06-05%2020.59.24.jpg?raw=true"
+  },
+  {
+    "id": "dd8a3658-5969-460d-9588-c2a48522ca04",
+    "makerId": "7b536185-7532-4af9-bcde-4b5595616377",
+    "function": [
+      "Trigger Sequencer"
+    ],
+    "name": "Telegraph",
+    "description": "Arduino-based text-to-Morse code generator",
+    "width": 5,
+    "type": [
+      "Schematic + Firmware"
+    ],
+    "link": "https://github.com/TimMJN/Arduino-Morse-Gate-Generator",
+    "imageLink": "https://placekitten.com/200/300"
+  }  
 ]

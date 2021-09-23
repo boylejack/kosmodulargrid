@@ -4,5 +4,11 @@
     "name": "Example Maker",
     "description": "An example maker for testing purposes",
     "website": "https://www.google.com"
+  },
+  {
+    "id": "7b536185-7532-4af9-bcde-4b5595616377",
+    "name": "TimMJN",
+    "description": "LMNC forum user TimMJN",
+    "website": "https://github.com/TimMJN"
   }
 ]

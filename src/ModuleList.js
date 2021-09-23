@@ -16,11 +16,11 @@ export const ModuleList = (props) => {
         return (
           <div className="p-col-12 p-md-6 p-lg-4" key={module.id}>
             <Card>
-              <div className="p-d-flex">
-                <div>
-                  <img height="230px" src={module.imageLink} alt={`${module.name} - ${module.description}`} />
+              <div className="p-grid">
+                <div className="p-col-6">
+                  <img width="100%" src={module.imageLink} alt={`${module.name} - ${module.description}`} />
                 </div>
-                <div className="p-ml-4 p-d-flex p-flex-column p-jc-between">
+                <div className="p-d-flex p-col-6 p-flex-column p-jc-between">
                   <div>
                     <h4>
                       <a href={module.link} target="_blank" rel="noreferrer">

@@ -187,7 +187,7 @@
     ],
     "name": "1007 MIDI-CV",
     "description": "A MIDI to CV converter module based on the midimuso chip",
-    "width": 20,
+    "width": 10,
     "type": [
       "PCB + Panel", "Chipset"
     ],
@@ -202,7 +202,7 @@
     ],
     "name": "1157 Mini ADSR",
     "description": "ADSR Envelope Generator based on the ENVGEN8 chip.",
-    "width": 20,
+    "width": 5,
     "type": [
       "PCB + Panel", "Chipset"
     ],

@@ -262,7 +262,7 @@
     ],
     "name": "2001 Keyboard Sequencer",
     "description": "A Sequencer based on an arduino nano that can also act like a keyboard.",
-    "width": 5,
+    "width": 40,
     "type": [
       "PCB + Panel"
     ],

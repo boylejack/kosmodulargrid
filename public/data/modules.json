@@ -141,7 +141,7 @@
       "Distortion"
     ],
     "name": "4710 Safety Valve",
-    "description": "A valve baed distortion module.",
+    "description": "A valve based distortion module.",
     "width": 5,
     "type": [
       "PCB + Panel"

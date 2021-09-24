@@ -343,5 +343,264 @@
     ],
     "link": "https://github.com/TimMJN/Geiger-Counter-Module",
     "imageLink": "https://github.com/TimMJN/Geiger-Counter-Module/blob/main/geiger_counter_build_photos/2021-05-01%2019.49.57.jpg?raw=true"
-  }  
+  },  
+  {
+    "id": "f25e389e-357c-4af0-9338-93ad39bd687e",
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "Sequencer"
+    ],
+    "name": "8 Step Keyboard Sequencer",
+    "description": "8 step control voltage sequencer based on LMNC design, with a number of modifications",
+    "width": "40",
+    "type": [
+      "Schematic",
+      "Firmware"
+    ],
+    "link": "https://github.com/holmesrichards/8StepSequencer",
+    "imageLink": "https://github.com/holmesrichards/8StepSequencer/raw/master/Images/IMG_20200703_095937.jpg"
+  },
+  {
+    "id": "e58b45a0-137f-4c80-9f22-54b022163ce3",
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "Mixer"
+    ],
+    "name": "Audio Mixer",
+    "description": "3 input audio mixer",
+    "width": "7.5",
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://github.com/holmesrichards/audiomixer",
+    "imageLink": "https://github.com/holmesrichards/audiomixer/raw/main/Images/IMG_6735.JPG"
+  },
+  {
+    "id": "8b4e7d1f-54c6-4168-9a93-8a0c31e31d70",
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "Mixer"
+    ],
+    "name": "DC Mixer",
+    "description": "3 input DC mixer",
+    "width": "7.5",
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://github.com/holmesrichards/dc_mixer",
+    "imageLink": "https://github.com/holmesrichards/dc_mixer/raw/main/Images/ao_dc_mixer_panel_slide.png"
+  },
+  {
+    "id": "222f0f53-3bd3-419c-87b6-bc1482d065eb",
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "Interface"
+    ],
+    "name": "Expression Pedal Interface",
+    "description": "Expression pedal interface",
+    "width": "2.5",
+    "type": [
+      "Stripboard"
+    ],
+    "link": "https://github.com/holmesrichards/exped",
+    "imageLink": "https://analogoutputblog.files.wordpress.com/2020/05/img_6260.jpg"
+  },
+  {
+    "id": "b99f521b-3ef6-40b2-b96f-6768949b6c9d",
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "Gate Processor"
+    ],
+    "name": "Gate Grinder",
+    "description": "Generate clocks and act on triggers and gates",
+    "width": "10",
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://github.com/holmesrichards/GateGrinder",
+    "imageLink": "https://raw.githubusercontent.com/holmesrichards/GateGrinder/master/Panel/Gate%20Grinder%20panel.png"
+  },
+  {
+    "id": "4a6c1fca-a36c-40c7-ad96-4f8bc9c9c338",
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "Distortion"
+    ],
+    "name": "Megamodule",
+    "description": "Toy voice changing megaphone bent into synth module",
+    "width": "5",
+    "type": [
+      "Protoboard"
+    ],
+    "link": "https://github.com/holmesrichards/megamodule",
+    "imageLink": "https://analogoutputblog.files.wordpress.com/2020/09/pxl_20200923_171253876.jpg"
+  },
+  {
+    "id": "dc9f4b21-aecd-477b-8dba-577455225b6b",
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "MIDI"
+    ],
+    "name": "MCVI",
+    "description": "Simple MIDI to CV",
+    "width": "5",
+    "type": [
+      "PCB + Panel",
+      "Firmware"
+    ],
+    "link": "https://github.com/holmesrichards/MCVI",
+    "imageLink": "https://github.com/holmesrichards/MCVI/raw/master/Images/MCVI_panel.png"
+  },
+  {
+    "id": "a465d5fe-4e17-42cb-b6e3-4599b7548029",
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "LFO"
+    ],
+    "name": "VC LFO",
+    "description": "Auxiliary board and Kosmo format front panel for MFOS VC LFO, supplying sync and power header",
+    "width": "10",
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://github.com/holmesrichards/MFOS_VC_LFO",
+    "imageLink": "https://github.com/holmesrichards/MFOS_VC_LFO/raw/main/Images/mfos_vclfo_panel.png"
+  },
+  {
+    "id": "d3e50230-f7a7-4ab6-923c-2c176e9f6db7",
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "Interface"
+    ],
+    "name": "Mikrokosmos",
+    "description": "Kosmo format version of Music Thing Modular's Mikrophonie",
+    "width": "2.5",
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://github.com/holmesrichards/Mikrokosmos",
+    "imageLink": "https://github.com/holmesrichards/Mikrokosmos/raw/master/Images/IMG_6220.JPG?raw=true"
+  },
+  {
+    "id": "3fe8c809-22f9-4a46-bf47-9762e0d9965e",
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "Percussion",
+      "Drone"
+    ],
+    "name": "Noise Bells",
+    "description": "Percussion/drone module based on Hackaday CMOS Noise article",
+    "width": "10",
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://github.com/holmesrichards/NoiseBells",
+    "imageLink": "https://github.com/holmesrichards/NoiseBells/raw/master/Images/IMG_6415.JPG"
+  },
+  {
+    "id": "a78eb67d-0b2a-482e-8917-5907e82825e9",
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "Envelope Generator"
+    ],
+    "name": "Precision ADSR",
+    "description": "Kassutronics Precision ADSR with retriggering and looping modifications",
+    "width": "5",
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://github.com/holmesrichards/precadsr",
+    "imageLink": "https://github.com/holmesrichards/precadsr/raw/main/Images/IMG_6753.JPG"
+  },
+  {
+    "id": "a4632e6c-9a9d-4842-b30f-bb86cc3e8002",
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "Quantizer"
+    ],
+    "name": "Dual Quantizer",
+    "description": "Dual CV quantizer with choice of ~72 scales",
+    "width": "10",
+    "type": [
+      "PCB + Panel",
+      "Firmware"
+    ],
+    "link": "https://github.com/holmesrichards/QuantizerModule",
+    "imageLink": "https://github.com/holmesrichards/QuantizerModule/raw/master/docs/quantizer.jpg"
+  },
+  {
+    "id": "dc858c4d-fc50-45b6-b0d8-ce195190e55c",
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "Utility"
+    ],
+    "name": "Attenuators",
+    "description": "3x passive attenuators",
+    "width": "5",
+    "type": [
+      "Panel"
+    ],
+    "link": "https://github.com/holmesrichards/frontpanels/tree/main/Attenuators",
+    "imageLink": "https://github.com/holmesrichards/frontpanels/raw/main/Attenuators/Attenuators_front.jpg"
+  },
+  {
+    "id": "eca5d3b3-4f42-4a80-9401-28e1b0f68d65",
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "VCF"
+    ],
+    "name": "Sallen-Key Filter",
+    "description": "Panel for Barton Musical Circuits module",
+    "width": "5",
+    "type": [
+      "Panel"
+    ],
+    "link": "https://github.com/holmesrichards/frontpanels/tree/main/Barton_Sallen-Key_VCF",
+    "imageLink": "https://github.com/holmesrichards/frontpanels/raw/main/Barton_Sallen-Key_VCF/Barton_Sallen-Key_VCF_front.jpg"
+  },
+  {
+    "id": "005c6d20-70c9-4b28-9079-40a3e36fce41",
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "Noise"
+    ],
+    "name": "Noise Cornucopia",
+    "description": "Panel for MFOS module",
+    "width": "5",
+    "type": [
+      "Panel"
+    ],
+    "link": "https://github.com/holmesrichards/frontpanels/tree/main/MFOS_Noise_Cornucopia",
+    "imageLink": "https://github.com/holmesrichards/frontpanels/raw/main/MFOS_Noise_Cornucopia/IMG_6509.JPG"
+  },
+  {
+    "id": "824332f4-67af-4da2-b7e5-05b2c44f8a72",
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "VCO"
+    ],
+    "name": "VCO",
+    "description": "Panel for MFOS module",
+    "width": "10",
+    "type": [
+      "Panel"
+    ],
+    "link": "https://github.com/holmesrichards/frontpanels/tree/main/MFOS_VCO",
+    "imageLink": "https://github.com/holmesrichards/frontpanels/raw/main/MFOS_VCO/IMG_6588.JPG"
+  },
+  {
+    "id": "c836d776-db2a-4956-a4bc-2f2320cddf58",
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "VCA"
+    ],
+    "name": "Dual Log/Lin VCA",
+    "description": "Panel for MFOS module",
+    "width": "7.5",
+    "type": [
+      "Panel"
+    ],
+    "link": "https://github.com/holmesrichards/frontpanels/tree/main/MFOS_VCA",
+    "imageLink": "https://github.com/holmesrichards/frontpanels/raw/main/MFOS_VCA/IMG_6671.JPG"
+  }
 ]

@@ -31,7 +31,11 @@ export const ModuleList = (props) => {
                   </div>
                   <div>
                     <div className="p-mt-2">
-                      <Tag severity="info" className="p-mr-2 p-mt-2" value={`${module.width} cm`} />
+                      {
+                        module.width ?
+                        <Tag severity="info" className="p-mr-2 p-mt-2" value={`${module.width} cm`} /> : 
+                        <></>
+                      }
                       {
                         module.function.map((fctn) => <Tag key={fctn} className="p-mr-2 p-mt-2" value={fctn}/>)
                       }

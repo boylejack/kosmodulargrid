@@ -17,7 +17,7 @@ export const ModuleFilter = (props) => {
     return module.type
   }).flat(), (v) => v).sort();
 
-  const possibleWidths = uniqBy(props.modules.map((module) => {
+  const possibleWidths = uniqBy(props.modules.filter((module) => module.width).map((module) => {
     return module.width
   }), (v) => v).sort((a, b) => a - b);
 

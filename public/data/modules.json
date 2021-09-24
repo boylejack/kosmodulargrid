@@ -21,7 +21,7 @@
       "Filter"
     ],
     "name": "1113 Performance Filter",
-    "description": "MS20 style filter based on the René Schmitz design",
+    "description": "MS20 style filter based on the René Schmitz design.",
     "width": 20,
     "type": [
       "PCB + Panel"
@@ -36,7 +36,7 @@
       "Delay"
     ],
     "name": "2399 Triple Splashback Delay",
-    "description": "Delay module based on the PT2399 chip",
+    "description": "Delay module based on the PT2399 chip.",
     "width": 10,
     "type": [
       "PCB + Panel"
@@ -111,7 +111,7 @@
       "Filter"
     ],
     "name": "1114 Filter Grr",
-    "description": "A new filter that is 'very odd'",
+    "description": "A new filter that is 'very odd.'",
     "width": 10,
     "type": [
       "PCB + Panel"
@@ -126,7 +126,7 @@
       "Multiple"
     ],
     "name": "1161 Dual Buffered Multiple",
-    "description": "Designed to split and buffer signal to make sure the juice doesn't get sucked out of the signal plugged in",
+    "description": "Designed to split and buffer signal to make sure the juice doesn't get sucked out of the signal plugged in.",
     "width": 5,
     "type": [
       "PCB + Panel"
@@ -156,7 +156,7 @@
       "Envelope Generator", "LFO"
     ],
     "name": "1153 Bounce....",
-    "description": "A bouncing ball simulator that has a lot more uses than you would expect",
+    "description": "A bouncing ball simulator that has a lot more uses than you would expect.",
     "width": 5,
     "type": [
       "PCB + Panel", "Chipset"
@@ -171,7 +171,7 @@
       "Synthesiser Voice"
     ],
     "name": "Fart Box",
-    "description": "Limited edition white pcb to build a Fart Box",
+    "description": "Limited edition white pcb to build a Fart Box.",
     "width": 20,
     "type": [
       "PCB"
@@ -186,7 +186,7 @@
       "MIDI"
     ],
     "name": "1007 MIDI-CV",
-    "description": "A MIDI to CV converter module based on the midimuso chip",
+    "description": "A MIDI to CV converter module based on the midimuso chip.",
     "width": 10,
     "type": [
       "PCB + Panel", "Chipset"
@@ -201,7 +201,7 @@
       "Envelope Generator"
     ],
     "name": "1157 Mini ADSR",
-    "description": "ADSR Envelope Generator based on the ENVGEN8 chip.",
+    "description": "ADSR Envelope Generator based on the Electric Druid ENVGEN8 chip.",
     "width": 5,
     "type": [
       "PCB + Panel", "Chipset"
@@ -216,7 +216,7 @@
       "Attenuverter"
     ],
     "name": "1171 O.B.A.",
-    "description": "Offset, Boost, Attenuvert",
+    "description": "Offset, Boost, Attenuvert.",
     "width": 5,
     "type": [
       "PCB + Panel"
@@ -231,7 +231,7 @@
       "VCA"
     ],
     "name": "1181 Dual VCA",
-    "description": "Two channel VCA based on the AS3360 chip",
+    "description": "Two channel VCA based on the AS3360 chip.",
     "width": 5,
     "type": [
       "PCB + Panel"
@@ -246,7 +246,7 @@
       "Drum"
     ],
     "name": "2700 Twin T Drummr",
-    "description": "Twin T drum module based on early organ drum voices",
+    "description": "Twin T drum module based on early organ drum voices.",
     "width": 10,
     "type": [
       "PCB + Panel"
@@ -321,7 +321,7 @@
       "Trigger Sequencer","Random"
     ],
     "name": "Telegraph",
-    "description": "Arduino-based text-to-Morse code generator",
+    "description": "Arduino-based text-to-Morse code generator.",
     "width": 5,
     "type": [
       "Schematic","Firmware"
@@ -336,7 +336,7 @@
       "Random"
     ],
     "name": "Nuclear Decay",
-    "description": "Geiger counter random trigger source",
+    "description": "Geiger counter random trigger source.",
     "width": 5,
     "type": [
       "Schematic"

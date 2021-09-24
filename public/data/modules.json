@@ -631,7 +631,7 @@
       "PCB + Panel"
     ],
     "link": "https://github.com/sonosus/kosmicsuperspreader",
-    "imageLink": "https://github.com/Sonosus/KosmicSuperspreader/blob/main/Docs/superspreader.jfif"
+    "imageLink": "https://github.com/Sonosus/KosmicSuperspreader/blob/main/Docs/superspreader.jfif?raw=true"
   },
   {
     "id": "33a9b751-a454-469e-a92f-995f391f227d",
@@ -645,6 +645,6 @@
       "PCB"
     ],
     "link": "https://github.com/sonosus/noisegen",
-    "imageLink": "https://github.com/Sonosus/NoiseGen/blob/main/Docs/assembled.jpg"
+    "imageLink": "https://github.com/Sonosus/NoiseGen/blob/main/Docs/assembled.jpg?raw=true"
   }
 ]

@@ -333,16 +333,31 @@
     "id": "0fc06811-e49d-43cc-835f-d372285b649e",
     "makerId": "7b536185-7532-4af9-bcde-4b5595616377",
     "function": [
-      "Random"
+      "Random","Envelope Generator"
     ],
     "name": "Nuclear Decay",
-    "description": "Geiger counter random trigger source.",
+    "description": "Geiger counter random trigger/envelope source.",
     "width": 5,
     "type": [
       "Schematic"
     ],
     "link": "https://github.com/TimMJN/Geiger-Counter-Module",
     "imageLink": "https://github.com/TimMJN/Geiger-Counter-Module/blob/main/geiger_counter_build_photos/2021-05-01%2019.49.57.jpg?raw=true"
+  },
+  {
+    "id": "6c1d694d-8f90-41df-963c-228e3d6a3475",
+    "makerId": "7b536185-7532-4af9-bcde-4b5595616377",
+    "function": [
+      "Panner","Crossfader","VCA"
+    ],
+    "name": "Panner/crossfader",
+    "description": "Dual voltage-controlled panner/crossfader with internal LFOs",
+    "width": 10,
+    "type": [
+      "PCB+Panel"
+    ],
+    "link": "https://github.com/TimMJN/Voltage-controlled-panner-crossfader",
+    "imageLink": "https://github.com/TimMJN/Voltage-controlled-panner-crossfader/blob/main/voltage_controlled_panner_crossfader_build_photos/2021-09-24%2014.38.21.jpg?raw=true"
   },  
   {
     "id": "f25e389e-357c-4af0-9338-93ad39bd687e",

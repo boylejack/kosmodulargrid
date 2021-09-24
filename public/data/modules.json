@@ -633,4 +633,18 @@
     "link": "https://github.com/sonosus/kosmicsuperspreader",
     "imageLink": "https://github.com/Sonosus/KosmicSuperspreader/blob/main/Docs/superspreader.jfif"
   }
+  {
+    "id": "33a9b751-a454-469e-a92f-995f391f227d",
+    "makerId": "b49a1046-a86f-4df5-93a7-f6b009a85f9e",
+    "function": [
+      "Noise"
+    ],
+    "name": "Noise Generator",
+    "description": "Super simple noise generator with the Electric Druid Noise2 chip.",
+    "type": [
+      "PCB"
+    ],
+    "link": "https://github.com/sonosus/noisegen",
+    "imageLink": "https://github.com/Sonosus/NoiseGen/blob/main/Docs/assembled.jpg"
+  }
 ]

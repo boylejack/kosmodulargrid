@@ -367,7 +367,7 @@
     ],
     "name": "8 Step Keyboard Sequencer",
     "description": "8 step control voltage sequencer based on LMNC design, with a number of modifications",
-    "width": "40",
+    "width": 40,
     "type": [
       "Schematic",
       "Firmware"
@@ -383,7 +383,7 @@
     ],
     "name": "Audio Mixer",
     "description": "3 input audio mixer",
-    "width": "7.5",
+    "width": 7.5,
     "type": [
       "PCB + Panel"
     ],
@@ -398,7 +398,7 @@
     ],
     "name": "DC Mixer",
     "description": "3 input DC mixer",
-    "width": "7.5",
+    "width": 7.5,
     "type": [
       "PCB + Panel"
     ],
@@ -413,7 +413,7 @@
     ],
     "name": "Expression Pedal Interface",
     "description": "Expression pedal interface",
-    "width": "2.5",
+    "width": 2.5,
     "type": [
       "Stripboard"
     ],
@@ -428,7 +428,7 @@
     ],
     "name": "Gate Grinder",
     "description": "Generate clocks and act on triggers and gates",
-    "width": "10",
+    "width": 10,
     "type": [
       "PCB + Panel"
     ],
@@ -443,7 +443,7 @@
     ],
     "name": "Megamodule",
     "description": "Toy voice changing megaphone bent into synth module",
-    "width": "5",
+    "width": 5,
     "type": [
       "Protoboard"
     ],
@@ -458,7 +458,7 @@
     ],
     "name": "MCVI",
     "description": "Simple MIDI to CV",
-    "width": "5",
+    "width": 5,
     "type": [
       "PCB + Panel",
       "Firmware"
@@ -474,7 +474,7 @@
     ],
     "name": "VC LFO",
     "description": "Auxiliary board and Kosmo format front panel for MFOS VC LFO, supplying sync and power header",
-    "width": "10",
+    "width": 10,
     "type": [
       "PCB + Panel"
     ],
@@ -489,7 +489,7 @@
     ],
     "name": "Mikrokosmos",
     "description": "Kosmo format version of Music Thing Modular's Mikrophonie",
-    "width": "2.5",
+    "width": 2.5,
     "type": [
       "PCB + Panel"
     ],
@@ -505,7 +505,7 @@
     ],
     "name": "Noise Bells",
     "description": "Percussion/drone module based on Hackaday CMOS Noise article",
-    "width": "10",
+    "width": 10,
     "type": [
       "PCB + Panel"
     ],
@@ -520,7 +520,7 @@
     ],
     "name": "Precision ADSR",
     "description": "Kassutronics Precision ADSR with retriggering and looping modifications",
-    "width": "5",
+    "width": 5,
     "type": [
       "PCB + Panel"
     ],
@@ -535,7 +535,7 @@
     ],
     "name": "Dual Quantizer",
     "description": "Dual CV quantizer with choice of ~72 scales",
-    "width": "10",
+    "width": 10,
     "type": [
       "PCB + Panel",
       "Firmware"
@@ -551,7 +551,7 @@
     ],
     "name": "Attenuators",
     "description": "3x passive attenuators",
-    "width": "5",
+    "width": 5,
     "type": [
       "Panel"
     ],
@@ -566,7 +566,7 @@
     ],
     "name": "Sallen-Key Filter",
     "description": "Panel for Barton Musical Circuits module",
-    "width": "5",
+    "width": 5,
     "type": [
       "Panel"
     ],
@@ -581,7 +581,7 @@
     ],
     "name": "Noise Cornucopia",
     "description": "Panel for MFOS module",
-    "width": "5",
+    "width": 5,
     "type": [
       "Panel"
     ],
@@ -596,7 +596,7 @@
     ],
     "name": "VCO",
     "description": "Panel for MFOS module",
-    "width": "10",
+    "width": 10,
     "type": [
       "Panel"
     ],
@@ -611,7 +611,7 @@
     ],
     "name": "Dual Log/Lin VCA",
     "description": "Panel for MFOS module",
-    "width": "7.5",
+    "width": 7.5,
     "type": [
       "Panel"
     ],
@@ -626,7 +626,7 @@
     ],
     "name": "Kosmic Superspreader",
     "description": "CV processing module for detuning oscillators.",
-    "width": "5",
+    "width": 5,
     "type": [
       "PCB + Panel"
     ],

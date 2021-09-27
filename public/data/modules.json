@@ -646,5 +646,35 @@
     ],
     "link": "https://github.com/sonosus/noisegen",
     "imageLink": "https://github.com/Sonosus/NoiseGen/blob/main/Docs/assembled.jpg?raw=true"
+  },
+  {
+    "id": "b60b6ad6-ee37-4c75-be95-ea805350955a",
+    "makerId": "b703570d-23ca-4439-ba3d-97adac60b8de",
+    "function": [
+      "Filter"
+    ],
+    "name": "Transistor Ladder Filter",
+    "description": "A classic moog transistor ladder filter based on a Kassutronics design.",
+    "type": [
+      "PCB + Panel"
+    ],
+    "width": 10,
+    "link": "https://github.com/sebastianbeyer/KOSMO_ladderfilter",
+    "imageLink": "https://raw.githubusercontent.com/sebastianbeyer/KOSMO_ladderfilter/master/images/ready.jpg"
+  },
+  {
+    "id": "f3010240-d6ff-44db-8cdf-ed2a9d5d8804",
+    "makerId": "b703570d-23ca-4439-ba3d-97adac60b8de",
+    "function": [
+      "MIDI"
+    ],
+    "name": "MIDI to Gate",
+    "description": "Simple Midi to gate module with 12 gates.",
+    "type": [
+      "PCB + Panel"
+    ],
+    "width": 7.5,
+    "link": "https://github.com/sebastianbeyer/SO_midi2gate",
+    "imageLink": "https://github.com/sebastianbeyer/SO_midi2gate/blob/main/images/midi2gate_photo1.jpg?raw=true"
   }
 ]

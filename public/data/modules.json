@@ -562,7 +562,7 @@
     "id": "eca5d3b3-4f42-4a80-9401-28e1b0f68d65",
     "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
     "function": [
-      "VCF"
+      "Filter"
     ],
     "name": "Sallen-Key Filter",
     "description": "Panel for Barton Musical Circuits module",

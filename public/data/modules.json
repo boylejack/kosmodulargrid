@@ -676,5 +676,310 @@
     "width": 7.5,
     "link": "https://github.com/sebastianbeyer/SO_midi2gate",
     "imageLink": "https://github.com/sebastianbeyer/SO_midi2gate/blob/main/images/midi2gate_photo1.jpg?raw=true"
+  },
+  {
+    "id": "fd3680ce-eb00-4758-980a-07ed26b877b2",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "Gate Processor"
+    ],
+    "name": "Rotary Dial Phone Gate",
+    "description": "A manual and rotary dial phone gate module (0 to 5 V out with 2 outputs).",
+    "width": 10,
+    "type": [
+      "Stripboard"
+    ],
+    "link": "https://soundbender36.wordpress.com/2021/03/16/66-synthetiseur-modulaire-diy-manual-dial-phone-gate/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2021/09/manual-and-dial-phone-gate-trigger-sound-bender-1.jpg"
+  },
+  {
+    "id": "c4945ee6-6bf7-469a-a7ea-005f76fa6e3b",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "Drum"
+    ],
+    "name": "Twin T Kick",
+    "description": "Kosmo format version of Krakenpine Twin T Kick",
+    "width": 5,
+    "type": [
+      "\"Stripboard",
+      "Schematic\""
+    ],
+    "link": "https://soundbender36.wordpress.com/2021/01/24/25-bis-synthetiseur-modulaire-diy-twin-t-kick-drum/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2021/01/twin-t-kick-sound-bender-1.jpg"
+  },
+  {
+    "id": "129dd6bb-8f1d-4958-9163-67d9a464c20b",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "Clock Divider"
+    ],
+    "name": "Clock Divider",
+    "description": "Kosmo format version of Niklas R\u00f6nnberg Clock Pulse Divider",
+    "width": 5,
+    "type": [
+      "Schematic"
+    ],
+    "link": "https://soundbender36.wordpress.com/2019/09/17/14-synthetiseur-modulaire-diy-clock-divider/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2019/09/clock-divider-module-sound-bender-1.jpg"
+  },
+  {
+    "id": "b9beb9b6-618b-4ec7-b6c7-f2fd587c3969",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "LFO"
+    ],
+    "name": "Simple LFO",
+    "description": "Kosmo format version of David Haillant simple LFO",
+    "width": 5,
+    "type": [
+      "Schematic"
+    ],
+    "link": "https://soundbender36.wordpress.com/2019/09/16/13-synthetiseur-modulaire-diy-lfo/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2019/09/lfo-module-sound-bender-1.jpg"
+  },
+  {
+    "id": "4f925b13-b3d1-407d-9941-dfcee90b4db5",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "Envelope Generator"
+    ],
+    "name": "Simple AD/AR (555)",
+    "description": "Kosmo format version of PHOBoSapiens inc. Simple ADAR envelope generator with 555 chip",
+    "width": 5,
+    "type": [
+      "Schematic"
+    ],
+    "link": "https://soundbender36.wordpress.com/2019/09/18/15-synthetiseur-modulaire-diy-ad-ar-envellope-generator/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2019/09/ad-ar-module-sound-bender-1.jpg"
+  },
+  {
+    "id": "d84fff2f-3849-4313-b197-b5c94c03f9d2",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "Drum"
+    ],
+    "name": "Snare / Tom",
+    "description": "Kosmo format version of Unauthorised Service Snare Tom module",
+    "width": 5,
+    "type": [
+      "Stripboard"
+    ],
+    "link": "https://soundbender36.wordpress.com/2019/12/21/23-synthetiseur-modulaire-diy-snare-tom/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2019/12/snare-tom-module-sound-bender-1.jpg"
+  },
+  {
+    "id": "db4eaec0-d090-4fa6-bd5a-adbb9b2d5a3e",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "Drum"
+    ],
+    "name": "Bass Drum ++",
+    "description": "Kosmo format version of Thomas Henry Bass Drum ++ module",
+    "width": 10,
+    "type": [
+      "Stripboard"
+    ],
+    "link": "https://soundbender36.wordpress.com/2019/12/22/25-synthetiseur-modulaire-diy-bass-drum/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2019/12/bass-drum-module-sound-bender-1-1.jpg"
+  },
+  {
+    "id": "4c590d1f-54e5-4f61-9ff9-3e959c0e1bb1",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "Distortion"
+    ],
+    "name": "Dual Distortion",
+    "description": "Kosmo format version of Niklas R\u00f6nnberg Dual Distortion module",
+    "width": 5,
+    "type": [
+      "Schematic"
+    ],
+    "link": "https://soundbender36.wordpress.com/2019/12/22/27-synthetiseur-modulaire-diy-distortion-unit/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2019/12/dist-unit-module-sound-bender-1.jpg"
+  },
+  {
+    "id": "b7a8d008-c50b-4acd-b538-a5a9591f5a56",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "Gate Processor"
+    ],
+    "name": "Logic Gate",
+    "description": "Kosmo format version of Ken Stone Logic Gate module",
+    "width": 10,
+    "type": [
+      "Schematic"
+    ],
+    "link": "https://soundbender36.wordpress.com/2019/12/25/33-synthetiseur-modulaire-diy-logic-gate/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2019/12/logic-gate-sound-bender-1.jpg"
+  },
+  {
+    "id": "213c44a5-4d9f-42ae-8bc6-2d3a7921e92b",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "Mixer"
+    ],
+    "name": "Mixer",
+    "description": "Kosmo format version of Niklas R\u00f6nnberg Mixer module",
+    "width": 10,
+    "type": [
+      "\"Stripboard",
+      "Schematic\""
+    ],
+    "link": "https://soundbender36.wordpress.com/2020/07/14/47-synthetiseur-modulaire-diy-mixer-selecter-3/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2020/07/mixer-selecter-sound-bender-1.jpg?w=1352"
+  },
+  {
+    "id": "dbf95161-23db-4858-8e2b-1218f5c7c13c",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "Interface"
+    ],
+    "name": "Dual Stomp Box Adapter",
+    "description": "Kosmo format version of AI Synthesis module",
+    "width": 10,
+    "type": [
+      "\"Stripboard",
+      "Schematic\""
+    ],
+    "link": "https://soundbender36.wordpress.com/2020/07/15/48-synthetiseur-modulaire-diy-dual-stomp-box-adaptater/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2020/07/dual-stomp-box-adaptater-sound-bender-2.jpg?w=1352"
+  },
+  {
+    "id": "9712df9f-24bc-42f0-a3cf-3ea593b0ecde",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "Wave Shaper"
+    ],
+    "name": "Wave Shaper",
+    "description": "Kosmo format version of Barton Musical Circuits module",
+    "width": 10,
+    "type": [
+      "\"Stripboard",
+      "Schematic\""
+    ],
+    "link": "https://soundbender36.wordpress.com/2020/07/23/56-synthetiseur-modulaire-diy-wave-shaper/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2020/07/wave-shaper-sound-bender-1.jpg?w=1352"
+  },
+  {
+    "id": "6733e63d-72d9-42eb-991d-eb1e0302d92c",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "Sub Oscillator"
+    ],
+    "name": "Sub Oscillator",
+    "description": "Kosmo format version of Carmello Azzarello module",
+    "width": 5,
+    "type": [
+      "Stripboard"
+    ],
+    "link": "https://soundbender36.wordpress.com/2021/03/10/60-synthetiseur-modulaire-diy-sub-oscillator/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2021/03/sub-oscillator-sound-bender-1.jpg?w=1352"
+  },
+  {
+    "id": "fe229930-e91b-4194-8ca5-3964c8a8f86b",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "Noise"
+    ],
+    "name": "Noise 5",
+    "description": "Eddy Bergman version of MFOS module",
+    "width": 5,
+    "type": [
+      "Stripboard"
+    ],
+    "link": "https://soundbender36.wordpress.com/2021/03/11/61-synthetiseur-modulaire-diy-noise-x5/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2021/03/noise-sound-bender-1.jpg?w=1352"
+  },
+  {
+    "id": "0b022291-be71-49e3-b1cd-f1858060b193",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "Envelope Generator"
+    ],
+    "name": "Envelope Follower",
+    "description": "Eddy Bergman version of ARP2600",
+    "width": 10,
+    "type": [
+      "Stripboard"
+    ],
+    "link": "https://soundbender36.wordpress.com/2021/03/13/63-synthetiseur-modulaire-diy-2600-arp-envelope-follower/",
+    "imageLink": "https://soundbender36.wordpress.com/2021/03/13/63-synthetiseur-modulaire-diy-2600-arp-envelope-follower/"
+  },
+  {
+    "id": "19bab7ed-0bdc-4091-a4c8-11bf5f1a81aa",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "Effect"
+    ],
+    "name": "DSP FX 100",
+    "description": "Kosmo version with this circuit",
+    "width": 10,
+    "type": [
+      "Schematic"
+    ],
+    "link": "https://soundbender36.wordpress.com/2021/03/14/64-synthetiseur-modulaire-diy-dsp-fx-100/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2021/03/dspfx100-sound-bender-1.jpg"
+  },
+  {
+    "id": "36e41c66-bb93-48f5-905c-2f9647069c0e",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "Filter"
+    ],
+    "name": "Steiner/Parker VCF",
+    "description": "Kosmo format of Yusynth design from Eddy Bergman",
+    "width": 10,
+    "type": [
+      "Stripboard"
+    ],
+    "link": "https://soundbender36.wordpress.com/2021/03/17/67-synthetiseur-modulaire-diy-steiner-parker-diode-filter/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2021/03/steiner-parker-vcf-sound-bender-1.jpg"
+  },
+  {
+    "id": "38359cf1-67f5-43fa-a690-1adcbb3968a4",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "LFO"
+    ],
+    "name": "Triple LFO",
+    "description": "Kosmo version and multiplication of Niklas R\u00f6nnberg Simple LFO",
+    "width": 10,
+    "type": [
+      "Stripboard"
+    ],
+    "link": "https://soundbender36.wordpress.com/2021/03/22/70-synthetiseur-modulaire-diy-triple-lfo/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2021/03/triple-lfo-sound-bender-1.jpg"
+  },
+  {
+    "id": "f5aac405-c70a-44d4-abc3-d910a50ed8d0",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "Utility"
+    ],
+    "name": "Dual CV Joystick/Wheel",
+    "description": "Mix of CV Joystick and CV Wheel schematics from Niklas R\u00f6nnberg",
+    "width": 10,
+    "type": [
+      "Stripboard"
+    ],
+    "link": "https://soundbender36.wordpress.com/2021/03/24/71-synthetiseur-modulaire-diy-dual-cv-joystick-wheel/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2021/03/cv-joystick-wheel-sound-bender-1.jpg"
+  },
+  {
+    "id": "a310c6c7-403c-4b69-93fe-70bcaa2e6723",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "Multiple"
+    ],
+    "name": "Buffered Multiple",
+    "description": "Kosmo format of a simple buffered multiple",
+    "width": 5,
+    "type": [
+      "\"Stripboard",
+      "Schematic\""
+    ],
+    "link": "https://soundbender36.wordpress.com/2021/04/01/75-synthetiseur-modulaire-diy-buffered-multiple/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2021/03/buffered-multiple-sound-bender-1.jpg"
   }
 ]

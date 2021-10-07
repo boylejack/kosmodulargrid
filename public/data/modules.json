@@ -303,7 +303,7 @@
     "id": "e013bd4f-3d60-4842-aca9-d9c6efc5970c",
     "makerId": "7b536185-7532-4af9-bcde-4b5595616377",
     "function": [
-      "Clock divider"
+      "Clock Divider"
     ],
     "name": "Rotating Clock Divider",
     "description": "Arduino-based clock divider with internal/external clocks, adjustable divisions and rotate function.",

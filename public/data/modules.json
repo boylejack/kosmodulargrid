@@ -702,8 +702,8 @@
     "description": "Kosmo format version of Krakenpine Twin T Kick",
     "width": 5,
     "type": [
-      "\"Stripboard",
-      "Schematic\""
+      "Stripboard",
+      "Schematic"
     ],
     "link": "https://soundbender36.wordpress.com/2021/01/24/25-bis-synthetiseur-modulaire-diy-twin-t-kick-drum/",
     "imageLink": "https://soundbender36.files.wordpress.com/2021/01/twin-t-kick-sound-bender-1.jpg"
@@ -823,8 +823,8 @@
     "description": "Kosmo format version of Niklas R\u00f6nnberg Mixer module",
     "width": 10,
     "type": [
-      "\"Stripboard",
-      "Schematic\""
+      "Stripboard",
+      "Schematic"
     ],
     "link": "https://soundbender36.wordpress.com/2020/07/14/47-synthetiseur-modulaire-diy-mixer-selecter-3/",
     "imageLink": "https://soundbender36.files.wordpress.com/2020/07/mixer-selecter-sound-bender-1.jpg?w=1352"
@@ -839,8 +839,8 @@
     "description": "Kosmo format version of AI Synthesis module",
     "width": 10,
     "type": [
-      "\"Stripboard",
-      "Schematic\""
+      "Stripboard",
+      "Schematic"
     ],
     "link": "https://soundbender36.wordpress.com/2020/07/15/48-synthetiseur-modulaire-diy-dual-stomp-box-adaptater/",
     "imageLink": "https://soundbender36.files.wordpress.com/2020/07/dual-stomp-box-adaptater-sound-bender-2.jpg?w=1352"
@@ -855,8 +855,8 @@
     "description": "Kosmo format version of Barton Musical Circuits module",
     "width": 10,
     "type": [
-      "\"Stripboard",
-      "Schematic\""
+      "Stripboard",
+      "Schematic"
     ],
     "link": "https://soundbender36.wordpress.com/2020/07/23/56-synthetiseur-modulaire-diy-wave-shaper/",
     "imageLink": "https://soundbender36.files.wordpress.com/2020/07/wave-shaper-sound-bender-1.jpg?w=1352"
@@ -976,8 +976,8 @@
     "description": "Kosmo format of a simple buffered multiple",
     "width": 5,
     "type": [
-      "\"Stripboard",
-      "Schematic\""
+      "Stripboard",
+      "Schematic"
     ],
     "link": "https://soundbender36.wordpress.com/2021/04/01/75-synthetiseur-modulaire-diy-buffered-multiple/",
     "imageLink": "https://soundbender36.files.wordpress.com/2021/03/buffered-multiple-sound-bender-1.jpg"

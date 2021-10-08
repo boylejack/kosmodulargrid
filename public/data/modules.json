@@ -981,5 +981,51 @@
     ],
     "link": "https://soundbender36.wordpress.com/2021/04/01/75-synthetiseur-modulaire-diy-buffered-multiple/",
     "imageLink": "https://soundbender36.files.wordpress.com/2021/03/buffered-multiple-sound-bender-1.jpg"
+  },
+  {
+    "id": "e57b1658-210a-4b7f-9fce-626689804454",
+    "makerId": "aeceb700-7467-4332-84a6-77f8af087035",
+    "function": [
+      "MIDI","Utility","CV Modulation","Gate Processor"
+    ],
+    "name": "Multitool",
+    "description": "Development platform with various MIDI/CV/gate input and output options",
+    "width": 10,
+    "type": [
+      "PCB + Panel",
+      "Firmware"
+    ],
+    "link": "https://github.com/polykit/kosmo-multitool",
+    "imageLink": "https://raw.githubusercontent.com/polykit/kosmo-multitool/master/kosmo-multitool-modulargrid-small.jpg"
+  },
+  {
+    "id": "1661b964-7173-4253-81d9-7f2756eb0360",
+    "makerId": "aeceb700-7467-4332-84a6-77f8af087035",
+    "function": [
+      "CV Modulation","Noise"
+    ],
+    "name": "Sample And Hold",
+    "description": "Simple sample and hold / noise module",
+    "width": 5,
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://github.com/polykit/kosmo-sample-and-hold",
+    "imageLink": "https://raw.githubusercontent.com/polykit/kosmo-sample-and-hold/master/kosmo-sample-and-hold-modulargrid-small.jpg"
+  },
+  {
+    "id": "805f5446-0ed7-40b3-8d6d-209ebf3eebed",
+    "makerId": "aeceb700-7467-4332-84a6-77f8af087035",
+    "function": [
+      "Delay","Effect","Distortion"
+    ],
+    "name": "Spring Reverb Driver",
+    "description": "Driver module for a classy spring reverb tank",
+    "width": 5,
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://github.com/polykit/kosmo-spring-reverb-driver",
+    "imageLink": "https://raw.githubusercontent.com/polykit/kosmo-spring-reverb-driver/master/kosmo-spring-reverb-driver-modulargrid-small.jpg"
   }
 ]

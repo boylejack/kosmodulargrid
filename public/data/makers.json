@@ -40,5 +40,11 @@
     "name": "Polykit",
     "description": "LMNC forum user jkb",
     "website": "https://github.com/polykit"
+  },
+    {
+    "id": "f87f0338-b3c3-4a30-b7b5-460efd9696af",
+    "name": "Dave",
+    "description": "LMNC forum user Dave",
+    "website": "https://github.com/orgs/DavesKosmoModules"
   }
 ]

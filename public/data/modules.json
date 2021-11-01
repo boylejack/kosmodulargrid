@@ -421,6 +421,21 @@
     "imageLink": "https://analogoutputblog.files.wordpress.com/2020/05/img_6260.jpg"
   },
   {
+    "id": "ee50c618-f109-44e3-a4ec-c2132e465059",
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "Filter"
+    ],
+    "name": "Fixed Filter Bank",
+    "description": "YuSynth Fixed Filter Bank with some modifications",
+    "width": 20,
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://github.com/holmesrichards/ffbmod",
+    "imageLink": "https://raw.githubusercontent.com/holmesrichards/ffbmod/main/Images/ffb.jpg"
+  },
+  {
     "id": "b99f521b-3ef6-40b2-b96f-6768949b6c9d",
     "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
     "function": [

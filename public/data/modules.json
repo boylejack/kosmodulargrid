@@ -1056,7 +1056,7 @@
       "PCB + Panel"
     ],
     "link": "https://github.com/DavesKosmoModules/Mix",
-    "imageLink": "https://raw.githubusercontent.com/DavesKosmoModules/Mix/blob/main/Docs/Mix-Photo.png"
+    "imageLink": "https://github.com/DavesKosmoModules/Mix/blob/main/Docs/Mix-Photo.png?raw=true"
   },
   {
     "id": "58827f94-bf39-4a4b-8048-34fba68e0a75",
@@ -1071,7 +1071,7 @@
       "PCB + Panel"
     ],
     "link": "https://github.com/DavesKosmoModules/Buren-Mult",
-    "imageLink": "https://raw.githubusercontent.com/DavesKosmoModules/Buren-Mult/blob/main/Docs/Buren-Photo.png"
+    "imageLink": "https://github.com/DavesKosmoModules/Buren-Mult/blob/main/Docs/Buren-Mult-Photo.png?raw=true"
   },
   {
     "id": "ab04f445-aa9f-4824-92de-20be4e85e737",
@@ -1086,7 +1086,7 @@
       "PCB + Panel"
     ],
     "link": "https://github.com/DavesKosmoModules/Rain-Noise",
-    "imageLink": "https://raw.githubusercontent.com/DavesKosmoModules/Rain-Noise/blob/main/Docs/Rain-Photo.png"
+    "imageLink": "https://github.com/DavesKosmoModules/Rain-Noise/blob/main/Docs/Rain-Photo.png?raw=true"
   },
   {
     "id": "79829892-818a-4fb6-96e7-14a972cb88d6",
@@ -1101,7 +1101,7 @@
       "PCB + Panel"
     ],
     "link": "https://github.com/DavesKosmoModules/Farini-VC-ADSR",
-    "imageLink": "https://raw.githubusercontent.com/DavesKosmoModules/Farini-VC-ADSR/blob/main/Docs/Farini-Photo.png"
+    "imageLink": "https://github.com/DavesKosmoModules/Farini-VC-ADSR/blob/main/Docs/Farini-Photo.png?raw=true"
   },
   {
     "id": "507df447-1a9b-45ec-b620-f40020c6d683",
@@ -1116,6 +1116,6 @@
       "PCB + Panel"
     ],
     "link": "https://raw.githubusercontent.com/DavesKosmoModules/Brenn-Slow-LFO",
-    "imageLink": "https://raw.githubusercontent.com/DavesKosmoModules/Brenn-Slow-LFO/blob/main/Docs/Brenn-Photo.png"
+    "imageLink": "https://github.com/DavesKosmoModules/Brenn-Slow-LFO/blob/main/Docs/Brenn-Photo.png?raw=true"
   }
 ]

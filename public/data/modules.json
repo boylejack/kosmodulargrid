@@ -1042,5 +1042,80 @@
     ],
     "link": "https://github.com/polykit/kosmo-spring-reverb-driver",
     "imageLink": "https://raw.githubusercontent.com/polykit/kosmo-spring-reverb-driver/master/kosmo-spring-reverb-driver-modulargrid-small.jpg"
+  },
+  {
+    "id": "cdae4ec1-8133-445f-a5bd-c6b1c8871406",
+    "makerId": "f87f0338-b3c3-4a30-b7b5-460efd9696af",
+    "function": [
+      "Mixer"
+    ],
+    "name": "Mix",
+    "description": "Five channel mixer",
+    "width": 5,
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://github.com/DavesKosmoModules/Mix",
+    "imageLink": "https://raw.githubusercontent.com/DavesKosmoModules/Mix/blob/main/Docs/Mix-Photo.png"
+  },
+  {
+    "id": "58827f94-bf39-4a4b-8048-34fba68e0a75",
+    "makerId": "f87f0338-b3c3-4a30-b7b5-460efd9696af",
+    "function": [
+      "Multiple"
+    ],
+    "name": "Buren",
+    "description": "3 x 3 or 1 x 9 Mult",
+    "width": 5,
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://github.com/DavesKosmoModules/Buren-Mult",
+    "imageLink": "https://raw.githubusercontent.com/DavesKosmoModules/Buren-Mult/blob/main/Docs/Buren-Photo.png"
+  },
+  {
+    "id": "ab04f445-aa9f-4824-92de-20be4e85e737",
+    "makerId": "f87f0338-b3c3-4a30-b7b5-460efd9696af",
+    "function": [
+      "Noise"
+    ],
+    "name": "Rain",
+    "description": "Reverse Transistor Noise Generator",
+    "width": 2.5,
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://github.com/DavesKosmoModules/Rain-Noise",
+    "imageLink": "https://raw.githubusercontent.com/DavesKosmoModules/Rain-Noise/blob/main/Docs/Rain-Photo.png"
+  },
+  {
+    "id": "79829892-818a-4fb6-96e7-14a972cb88d6",
+    "makerId": "f87f0338-b3c3-4a30-b7b5-460efd9696af",
+    "function": [
+      "Envelope Generator"
+    ],
+    "name": "Farini",
+    "description": "Voltage Controlled Envelope Generator",
+    "width": 10,
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://github.com/DavesKosmoModules/Farini-VC-ADSR",
+    "imageLink": "https://raw.githubusercontent.com/DavesKosmoModules/Farini-VC-ADSR/blob/main/Docs/Farini-Photo.png"
+  },
+  {
+    "id": "507df447-1a9b-45ec-b620-f40020c6d683",
+    "makerId": "f87f0338-b3c3-4a30-b7b5-460efd9696af",
+    "function": [
+      "LFO"
+    ],
+    "name": "Brenn",
+    "description": "Quad slow LFO",
+    "width": 10,
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://raw.githubusercontent.com/DavesKosmoModules/Brenn-Slow-LFO",
+    "imageLink": "https://raw.githubusercontent.com/DavesKosmoModules/Brenn-Slow-LFO/blob/main/Docs/Brenn-Photo.png"
   }
 ]

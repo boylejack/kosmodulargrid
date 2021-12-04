@@ -427,7 +427,7 @@
       "Filter"
     ],
     "name": "Fixed Filter Bank",
-    "description": "YuSynth Fixed Filter Bank with some modifications",
+    "description": "YuSynth Fixed Filter Bank, retuned, with board mounted sliders and jacks",
     "width": 20,
     "type": [
       "PCB + Panel"
@@ -632,21 +632,6 @@
     ],
     "link": "https://github.com/holmesrichards/frontpanels/tree/main/MFOS_VCA",
     "imageLink": "https://github.com/holmesrichards/frontpanels/raw/main/MFOS_VCA/IMG_6671.JPG"
-  },
-  {
-    "id": "8a495637-26a7-4444-ab1e-06c56e20e74c",
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Filter"
-    ],
-    "name": "Fixed Filter Bank",
-    "description": "YuSynth Fixed Filter Bank, retuned, with board mounted sliders and jacks",
-    "width": 20,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://github.com/holmesrichards/ffbmod",
-    "imageLink": "https://raw.githubusercontent.com/holmesrichards/ffbmod/main/Images/ffb.jpg"
   },
   {
     "id": "0d6e5bfb-62ac-4ddb-a225-cc5ee88c153e",

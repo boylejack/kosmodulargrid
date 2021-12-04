@@ -634,6 +634,81 @@
     "imageLink": "https://github.com/holmesrichards/frontpanels/raw/main/MFOS_VCA/IMG_6671.JPG"
   },
   {
+    "id": "8a495637-26a7-4444-ab1e-06c56e20e74c",
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "Filter"
+    ],
+    "name": "Fixed Filter Bank",
+    "description": "YuSynth Fixed Filter Bank, retuned, with board mounted sliders and jacks",
+    "width": 20,
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://github.com/holmesrichards/ffbmod",
+    "imageLink": "https://raw.githubusercontent.com/holmesrichards/ffbmod/main/Images/ffb.jpg"
+  },
+  {
+    "id": "0d6e5bfb-62ac-4ddb-a225-cc5ee88c153e",
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "Wave Shaper"
+    ],
+    "name": "VC 4046 Wave Shaper",
+    "description": "Barton 4046 wave shaper modified to add voltage control and variable gain",
+    "width": 10,
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://github.com/holmesrichards/WaveShaper",
+    "imageLink": "https://raw.githubusercontent.com/holmesrichards/WaveShaper/master/Images/front.jpg"
+  },
+  {
+    "id": "f1252796-1ffa-4e1f-a78b-d85e3ff19256",
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "CV Generator"
+    ],
+    "name": "Neuron/Difference Rectifier",
+    "description": "Panel for NLC module",
+    "width": 5,
+    "type": [
+      "Panel"
+    ],
+    "link": "https://github.com/holmesrichards/frontpanels/tree/main/NLC_Neuron",
+    "imageLink": "https://raw.githubusercontent.com/holmesrichards/frontpanels/main/NLC_Neuron/front.jpg"
+  },
+  {
+    "id": "3ee58138-d194-4a5f-9dde-a7651f5ef312",
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "Interface"
+    ],
+    "name": "Joystick",
+    "description": "Joystick CV controller with adjustable ranges and offsets",
+    "width": 10,
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://github.com/holmesrichards/joystick",
+    "imageLink": "https://raw.githubusercontent.com/holmesrichards/joystick/main/Images/front.jpg"
+  },
+  {
+    "id": "401712b8-85ba-4e84-9893-e66fdea50aa6",
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "Sequencer"
+    ],
+    "name": "G.E.A.R. Sequencer",
+    "description": "Voltage controlled trigger sequencer with gap, Euclidean, ADC, and random algorithms",
+    "width": 10,
+    "type": [
+      "PCB + Panel"
+    ],
+    "link": "https://github.com/holmesrichards/gearseq",
+    "imageLink": "https://raw.githubusercontent.com/holmesrichards/gearseq/main/Images/front.jpg"
+  },
+  {
     "id": "6dd5cd42-1ba6-4ac3-9e0c-11e4b18a76c2",
     "makerId": "b49a1046-a86f-4df5-93a7-f6b009a85f9e",
     "function": [

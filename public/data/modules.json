@@ -1058,6 +1058,239 @@
     "imageLink": "https://soundbender36.files.wordpress.com/2021/03/buffered-multiple-sound-bender-1.jpg"
   },
   {
+    "id": "a69f0f62-55e4-4f6e-ab23-38af4aa42c95",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "CV Modulation"
+    ],
+    "name": "Dual CV Glide",
+    "description": "Simple Dual CV Glide module",
+    "width": 5,
+    "type": [
+      "Schematic"
+    ],
+    "link": "https://soundbender36.wordpress.com/2020/07/20/53-synthetiseur-modulaire-diy-dual-cv-glide/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2020/07/cv-glide-sound-bender-1.jpg"
+  },
+  {
+    "id": "e1718ae6-383b-4471-8517-6ceb291f8854",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "Trigger Sequencer"
+    ],
+    "name": "Big Button",
+    "description": "Trigger sequencer by LMNC in module format",
+    "width": 15,
+    "type": [
+      "Schematic"
+    ],
+    "link": "https://soundbender36.wordpress.com/2019/12/23/28-synthetiseur-modulaire-diy-drum-trigger-sequencer/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2019/12/drum-trigger-sequencer-module-sound-bender-1.jpg?w=1024"
+  },
+  {
+    "id": "2c1a86e9-6189-4306-915b-f4fa1fbf4cdf",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "\"Mixer",
+      "Crossfader\""
+    ],
+    "name": "Mixer Crossfader",
+    "description": "Mix of 2 schematics, Simple Mixer  from LMNC & CrossFader from La Roue Tourne",
+    "width": 10,
+    "type": [
+      "Schematic"
+    ],
+    "link": "https://soundbender36.wordpress.com/2021/03/18/68-synthetiseur-modulaire-diy-mixer-cross-fader/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2021/03/mixer-cross-fader-sound-bender-1.jpg"
+  },
+  {
+    "id": "729ff389-aaf4-4123-90f3-001f31a9e827",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "Wave Shaper"
+    ],
+    "name": "Multi PWM",
+    "description": "Kosmo format version of Barton Musical Circuits module",
+    "width": 10,
+    "type": [
+      "\"Stripboard",
+      "Schematic\""
+    ],
+    "link": "https://soundbender36.wordpress.com/2021/10/17/79-synthetiseur-modulaire-diy-multi-pwm/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2021/10/06-multi-pwm-sound-bender-1.jpg?w=885"
+  },
+  {
+    "id": "7fbd8b73-aff4-4d6e-a54a-7bb2554746ed",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "Filter"
+    ],
+    "name": "Diode ladder filter",
+    "description": "Kosmo adaptation of the Moritz Klein filter",
+    "width": 10,
+    "type": [
+      "Schematic"
+    ],
+    "link": "https://soundbender36.wordpress.com/2021/10/18/80-synthetiseur-modulaire-diy-moritz-klein-diode-ladder-vcf/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2021/10/07-klein-diode-vcf-sound-bender-1.jpg?w=768&h=865"
+  },
+  {
+    "id": "6f53c158-81f4-49a3-8fc3-f15cdee9cd76",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "Ring Modulator"
+    ],
+    "name": "Active Real Ring Modulator",
+    "description": "Kosmo version of the CGS67 from Ken Stone",
+    "width": 10,
+    "type": [
+      "\"Stripboard",
+      "Schematic\""
+    ],
+    "link": "https://soundbender36.wordpress.com/2021/10/27/85-synthetiseur-modulaire-diy-active-real-ring-modulator/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2021/10/08-active-real-ring-modulator-sound-bender-1.jpg?w=768&h=887"
+  },
+  {
+    "id": "929213c1-a0f2-4b81-bb80-295750fff175",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "VCA"
+    ],
+    "name": "Dual VCA",
+    "description": "Kosmo format version of the dual VCA (with CA3080) from Niklas R\u00f6nneberg",
+    "width": 10,
+    "type": [
+      "\"Stripboard",
+      "Schematic\""
+    ],
+    "link": "https://soundbender36.wordpress.com/2021/10/19/81-synthetiseur-modulaire-diy-dual-vca/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2021/10/12-dual-vca-sound-bender-1.jpg?w=768&h=834"
+  },
+  {
+    "id": "48639e1f-5a9f-4e00-ac5a-2be8c841d082",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "CV Modulation"
+    ],
+    "name": "Dual Sloth Chaos",
+    "description": "Kosmo format version of the Non Linear Circuits module",
+    "width": 10,
+    "type": [
+      "\"Stripboard",
+      "Schematic\""
+    ],
+    "link": "https://soundbender36.wordpress.com/2021/10/23/82-synthetiseur-modulaire-diy-dual-sloth-chaos-lfo/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2021/10/11-dual-sloth-chaos-lfo-sound-bender-1.jpg?w=768&h=809"
+  },
+  {
+    "id": "06029c57-4e18-49b8-a44e-30dc0449218c",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "Envelope Generator"
+    ],
+    "name": "Bounce Bounce Bounce",
+    "description": "Stripboard layout of the Look Mum No Computer module",
+    "width": 10,
+    "type": [
+      "\"Stripboard",
+      "Schematic\""
+    ],
+    "link": "https://soundbender36.wordpress.com/2021/10/25/83-synthetiseur-modulaire-diy-bounce-bounce-bounce/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2021/10/10-bounce-sound-bender-1.jpg?w=768&h=785"
+  },
+  {
+    "id": "0e050d28-2e0c-4a56-b8a1-52fa2492f6c4",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "VCO"
+    ],
+    "name": "VCDO FM",
+    "description": "Kosmo format of the Hagiwo module",
+    "width": 5,
+    "type": [
+      "Schematic"
+    ],
+    "link": "https://soundbender36.wordpress.com/2021/10/29/86-synthetiseur-modulaire-diy-vcdo-fm-arduino/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2021/10/13-vcdo-fm-sound-bender-1.jpg?w=747&h=1024"
+  },
+  {
+    "id": "66503e6a-72e3-4375-aa95-87b753e49d19",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "VCO"
+    ],
+    "name": "VCDO Chord",
+    "description": "Kosmo format of the Hagiwo module ",
+    "width": 5,
+    "type": [
+      "Schematic"
+    ],
+    "link": "https://soundbender36.wordpress.com/2021/10/31/87-synthetiseur-modulaire-diy-vcdo-chord-arduino/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2021/10/14-vcdo-chord-sound-bender-1.jpg?w=768&h=964"
+  },
+  {
+    "id": "3e6f37cd-dfad-4c49-b175-c826d784780c",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "Wave Shaper"
+    ],
+    "name": "Timbre",
+    "description": "Kosmo format version of the Non Linear Circuits module",
+    "width": 10,
+    "type": [
+      "\"Stripboard",
+      "Schematic\""
+    ],
+    "link": "https://soundbender36.wordpress.com/2021/11/02/88-synthetiseur-modulaire-diy-timbre/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2021/10/15-timbre-sound-bender-1.jpg?w=768&h=819"
+  },
+  {
+    "id": "4ed58aff-35f3-4c0f-8810-9216db139c23",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "Sequencer"
+    ],
+    "name": "Baby 8 ",
+    "description": "Kosmo format of the Baby 8 sequencer (with reset and mute on each steps + gate out)",
+    "width": 10,
+    "type": [
+      "Stripboard"
+    ],
+    "link": "https://soundbender36.wordpress.com/2021/11/15/95-synthetiseur-modulaire-diy-baby-8-sequencer/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2021/10/18-baby-8-sequencer-sound-bender-1.jpg?w=768&h=819"
+  },
+  {
+    "id": "4e0410ac-25e7-492d-a055-5ab5ac18340c",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "Utility"
+    ],
+    "name": "Ducking side chain",
+    "description": "Kosmo format of the Juanito Moore module",
+    "width": 5,
+    "type": [
+      "Stripboard"
+    ],
+    "link": "https://soundbender36.wordpress.com/2021/11/07/92-synthetiseur-modulaire-diy-ducking-side-chain-module/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2021/10/20-ducking-side-chain-sound-bender-1.jpg?w=768&h=1018"
+  },
+  {
+    "id": "5396bb80-d2a7-4036-a636-b03689b57a2a",
+    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+    "function": [
+      "Delay"
+    ],
+    "name": "Dual CV Gate Delay",
+    "description": "Kosmo format of the Balter Gate Delay from Non Linear Circuits",
+    "width": 10,
+    "type": [
+      "\"Stripboard",
+      "Schematic\""
+    ],
+    "link": "https://soundbender36.wordpress.com/2021/11/06/91-synthetiseur-modulaire-diy-dual-balter-cv-gate-delay/",
+    "imageLink": "https://soundbender36.files.wordpress.com/2021/10/21-dual-balter-gate-delay-sound-bender-1.jpg?w=768&h=885"
+  }
+  {
     "id": "e57b1658-210a-4b7f-9fce-626689804454",
     "makerId": "aeceb700-7467-4332-84a6-77f8af087035",
     "function": [

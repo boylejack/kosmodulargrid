@@ -688,7 +688,8 @@
     "description": "Voltage controlled trigger sequencer with gap, Euclidean, ADC, and random algorithms",
     "width": 10,
     "type": [
-      "PCB + Panel"
+      "PCB + Panel",
+      "Firmware"
     ],
     "link": "https://github.com/holmesrichards/gearseq",
     "imageLink": "https://raw.githubusercontent.com/holmesrichards/gearseq/main/Images/front.jpg"
@@ -1091,8 +1092,8 @@
     "id": "2c1a86e9-6189-4306-915b-f4fa1fbf4cdf",
     "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
     "function": [
-      "\"Mixer",
-      "Crossfader\""
+      "Mixer",
+      "Crossfader"
     ],
     "name": "Mixer Crossfader",
     "description": "Mix of 2 schematics, Simple Mixer  from LMNC & CrossFader from La Roue Tourne",
@@ -1113,8 +1114,8 @@
     "description": "Kosmo format version of Barton Musical Circuits module",
     "width": 10,
     "type": [
-      "\"Stripboard",
-      "Schematic\""
+      "Stripboard",
+      "Schematic"
     ],
     "link": "https://soundbender36.wordpress.com/2021/10/17/79-synthetiseur-modulaire-diy-multi-pwm/",
     "imageLink": "https://soundbender36.files.wordpress.com/2021/10/06-multi-pwm-sound-bender-1.jpg?w=885"
@@ -1144,8 +1145,8 @@
     "description": "Kosmo version of the CGS67 from Ken Stone",
     "width": 10,
     "type": [
-      "\"Stripboard",
-      "Schematic\""
+      "Stripboard",
+      "Schematic"
     ],
     "link": "https://soundbender36.wordpress.com/2021/10/27/85-synthetiseur-modulaire-diy-active-real-ring-modulator/",
     "imageLink": "https://soundbender36.files.wordpress.com/2021/10/08-active-real-ring-modulator-sound-bender-1.jpg?w=768&h=887"
@@ -1160,8 +1161,8 @@
     "description": "Kosmo format version of the dual VCA (with CA3080) from Niklas R\u00f6nneberg",
     "width": 10,
     "type": [
-      "\"Stripboard",
-      "Schematic\""
+      "Stripboard",
+      "Schematic"
     ],
     "link": "https://soundbender36.wordpress.com/2021/10/19/81-synthetiseur-modulaire-diy-dual-vca/",
     "imageLink": "https://soundbender36.files.wordpress.com/2021/10/12-dual-vca-sound-bender-1.jpg?w=768&h=834"
@@ -1176,8 +1177,8 @@
     "description": "Kosmo format version of the Non Linear Circuits module",
     "width": 10,
     "type": [
-      "\"Stripboard",
-      "Schematic\""
+      "Stripboard",
+      "Schematic"
     ],
     "link": "https://soundbender36.wordpress.com/2021/10/23/82-synthetiseur-modulaire-diy-dual-sloth-chaos-lfo/",
     "imageLink": "https://soundbender36.files.wordpress.com/2021/10/11-dual-sloth-chaos-lfo-sound-bender-1.jpg?w=768&h=809"
@@ -1192,8 +1193,8 @@
     "description": "Stripboard layout of the Look Mum No Computer module",
     "width": 10,
     "type": [
-      "\"Stripboard",
-      "Schematic\""
+      "Stripboard",
+      "Schematic"
     ],
     "link": "https://soundbender36.wordpress.com/2021/10/25/83-synthetiseur-modulaire-diy-bounce-bounce-bounce/",
     "imageLink": "https://soundbender36.files.wordpress.com/2021/10/10-bounce-sound-bender-1.jpg?w=768&h=785"
@@ -1238,8 +1239,8 @@
     "description": "Kosmo format version of the Non Linear Circuits module",
     "width": 10,
     "type": [
-      "\"Stripboard",
-      "Schematic\""
+      "Stripboard",
+      "Schematic"
     ],
     "link": "https://soundbender36.wordpress.com/2021/11/02/88-synthetiseur-modulaire-diy-timbre/",
     "imageLink": "https://soundbender36.files.wordpress.com/2021/10/15-timbre-sound-bender-1.jpg?w=768&h=819"
@@ -1284,8 +1285,8 @@
     "description": "Kosmo format of the Balter Gate Delay from Non Linear Circuits",
     "width": 10,
     "type": [
-      "\"Stripboard",
-      "Schematic\""
+      "Stripboard",
+      "Schematic"
     ],
     "link": "https://soundbender36.wordpress.com/2021/11/06/91-synthetiseur-modulaire-diy-dual-balter-cv-gate-delay/",
     "imageLink": "https://soundbender36.files.wordpress.com/2021/10/21-dual-balter-gate-delay-sound-bender-1.jpg?w=768&h=885"

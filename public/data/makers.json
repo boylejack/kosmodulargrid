@@ -46,5 +46,11 @@
     "name": "Dave",
     "description": "LMNC forum user Dave",
     "website": "https://github.com/orgs/DavesKosmoModules"
+  },
+  {
+    "id": "0bbd976e-3421-4a9c-b400-a7612e1417ec",
+    "name": "Tamas Gal",
+    "description": "LMNC forum user tamasgal",
+    "website": "https://www.tamasgal.com"
   }
 ]

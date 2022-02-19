@@ -1411,5 +1411,20 @@
     ],
     "link": "https://raw.githubusercontent.com/DavesKosmoModules/Brenn-Slow-LFO",
     "imageLink": "https://github.com/DavesKosmoModules/Brenn-Slow-LFO/blob/main/Docs/Brenn-Photo.png?raw=true"
+  },
+  {
+    "makerId": "0bbd976e-3421-4a9c-b400-a7612e1417ec",
+    "function": [
+      "Multiple"
+    ],
+    "description": "A buffered multiple with 4 channels and 3 output for each",
+    "width": 5,
+    "imageLink": "https://www.tamasgal.com/modular_synth/buffered_multiple_4x3/buffered_multiple_4x3_panel.jpeg",
+    "link": "https://www.tamasgal.com/modular_synth/buffered_multiple_4x3/",
+    "type": [
+      "Protoboard + Panel"
+    ],
+    "id": "85ae4d56-c0c6-41d6-84da-528fe6e4a457",
+    "name": "Buffered Multiple 4x3"
   }
 ]

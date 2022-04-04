@@ -1510,6 +1510,20 @@
       "{cookiecutter.module_type}"
     ],
     "id": "90f88def-c6d0-4f88-94d4-e4ab7342e9f0",
+    "name": "My Amazing Kosmo Module",
+{
+    "makerId": "b49a1046-a86f-4df5-93a7-f6b009a85f9e",
+    "function": [
+      "Attenuator"
+    ],
+    "description": "Kosmo module that take input from brainwaves, runs them through a foo-bar algorithm on an Arduino Meta, and converts them to quantized 1.3v/oct notes via an 11.6 bit DAC.",
+    "width": 5,
+    "imageLink": "https://github.com/Maker/ModuleName/image.jpg?raw=true",
+    "link": "https://github.com/Maker/ModuleName",
+    "type": [
+      "{cookiecutter.module_type}"
+    ],
+    "id": "9c7faf57-5735-429c-830d-1ad94934cf5f",
     "name": "My Amazing Kosmo Module"
   }
 ]

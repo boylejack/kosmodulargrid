@@ -1426,5 +1426,62 @@
     ],
     "id": "85ae4d56-c0c6-41d6-84da-528fe6e4a457",
     "name": "Buffered Multiple 4x3"
+  },
+{
+    "makerId": "b49a1046-a86f-4df5-93a7-f6b009a85f9e",
+    "function": [
+      "Sample and Hold"
+    ],
+    "description": "An oscillator that, well, oscillates.",
+    "width": 5,
+    "imageLink": "https://github.com/Maker/ModuleName/image.jpg?raw=true",
+    "link": "github.com/sonosus",
+    "type": [
+      "{cookiecutter.module_type}"
+    ],
+    "id": "6a96f2c4-1d5b-4602-b0eb-38535b106684",
+    "name": "VCO",
+{
+    "makerId": "b49a1046-a86f-4df5-93a7-f6b009a85f9e",
+    "function": [
+      "Attenuator"
+    ],
+    "description": "Kosmo module that take input from brainwaves, runs them through a foo-bar algorithm on an Arduino Meta, and converts them to quantized 1.3v/oct notes via an 11.6 bit DAC.",
+    "width": 5,
+    "imageLink": "https://github.com/Maker/ModuleName/image.jpg?raw=true",
+    "link": "https://github.com/Maker/ModuleName",
+    "type": [
+      "{cookiecutter.module_type}"
+    ],
+    "id": "9ce50f8a-10dc-4978-ac5b-03d98abb315b",
+    "name": "My Amazing Kosmo Module",
+{
+    "makerId": "b49a1046-a86f-4df5-93a7-f6b009a85f9e",
+    "function": [
+      "Attenuator"
+    ],
+    "description": "Kosmo module that take input from brainwaves, runs them through a foo-bar algorithm on an Arduino Meta, and converts them to quantized 1.3v/oct notes via an 11.6 bit DAC.",
+    "width": 5,
+    "imageLink": "https://github.com/Maker/ModuleName/image.jpg?raw=true",
+    "link": "https://github.com/Maker/ModuleName",
+    "type": [
+      "{cookiecutter.module_type}"
+    ],
+    "id": "6e03ad65-cce0-46a1-b0a3-1df90ac4f349",
+    "name": "My Amazing Kosmo Module",
+{
+    "makerId": "b49a1046-a86f-4df5-93a7-f6b009a85f9e",
+    "function": [
+      "Attenuator"
+    ],
+    "description": "Kosmo module that take input from brainwaves, runs them through a foo-bar algorithm on an Arduino Meta, and converts them to quantized 1.3v/oct notes via an 11.6 bit DAC.",
+    "width": 5,
+    "imageLink": "https://github.com/Maker/ModuleName/image.jpg?raw=true",
+    "link": "https://github.com/Maker/ModuleName",
+    "type": [
+      "{cookiecutter.module_type}"
+    ],
+    "id": "49e71565-2f0f-48b4-8c65-0c160c024b28",
+    "name": "My Amazing Kosmo Module"
   }
 ]

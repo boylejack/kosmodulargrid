@@ -1456,5 +1456,35 @@
     ],
     "id": "e35acaea-0aa3-4ada-9ede-2ffcbb0f146a",
     "name": "My Amazing Kosmo Module"
+  },
+{
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "Attenuator"
+    ],
+    "description": "Three attenuverters with individual, summed, and inverted summed outputs",
+    "width": 7.5,
+    "imageLink": "https://github.com/holmesrichards/attenuverters/raw/main/Images/panel.jpg?raw=true",
+    "link": "https://github.com/holmesrichards/attenuverters",
+    "type": [
+      "PCB + Panel"
+    ],
+    "id": "0ddb36b3-a80b-4765-a423-3e744c5fcb1b",
+    "name": "Attenuverters"
+  },
+{
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "External"
+    ],
+    "description": "Modification of Barton module to convert infrared light into control voltage",
+    "width": 5,
+    "imageLink": "https://github.com/holmesrichards/irinput/raw/main/Images/irinput_front.jpg?raw=true",
+    "link": "https://github.com/holmesrichards/irinput",
+    "type": [
+      "PCB + Panel"
+    ],
+    "id": "d0ca422c-184a-42f8-8a46-02f94a8d2b0a",
+    "name": "Infrared Input"
   }
 ]

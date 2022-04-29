@@ -1417,51 +1417,6 @@
     "function": [
       "Attenuator"
     ],
-    "description": "Kosmo module that take input from brainwaves, runs them through a foo-bar algorithm on an Arduino Meta, and converts them to quantized 1.3v/oct notes via an 11.6 bit DAC.",
-    "width": 5,
-    "imageLink": "https://github.com/Maker/ModuleName/image.jpg?raw=true",
-    "link": "https://github.com/Maker/ModuleName",
-    "type": [
-      "Chipset"
-    ],
-    "id": "eedc3a9e-7329-41da-8418-8324e980c963",
-    "name": "My Amazing Kosmo Module"
-  },
-{
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Attenuator"
-    ],
-    "description": "fjdksjklfds",
-    "width": 5,
-    "imageLink": "https://github.com/Maker/ModuleName/image.jpg?raw=true",
-    "link": "https://github.com/Maker/ModuleName",
-    "type": [
-      "Chipset"
-    ],
-    "id": "886a395d-770f-42d6-9d1f-bb5cd6d41bea",
-    "name": "fjdklsf"
-  },
-{
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Attenuator"
-    ],
-    "description": "Kosmo module that take input from brainwaves, runs them through a foo-bar algorithm on an Arduino Meta, and converts them to quantized 1.3v/oct notes via an 11.6 bit DAC.",
-    "width": 5,
-    "imageLink": "https://github.com/Maker/ModuleName/image.jpg?raw=true",
-    "link": "https://github.com/Maker/ModuleName",
-    "type": [
-      "Chipset"
-    ],
-    "id": "e35acaea-0aa3-4ada-9ede-2ffcbb0f146a",
-    "name": "My Amazing Kosmo Module"
-  },
-{
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Attenuator"
-    ],
     "description": "Three attenuverters with individual, summed, and inverted summed outputs",
     "width": 7.5,
     "imageLink": "https://github.com/holmesrichards/attenuverters/raw/main/Images/panel.jpg?raw=true",

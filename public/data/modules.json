@@ -1456,5 +1456,140 @@
     ],
     "id": "d0ca422c-184a-42f8-8a46-02f94a8d2b0a",
     "name": "Infrared Input"
+  },
+{
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "CV Modulation"
+    ],
+    "description": "All pass filter for doing voltage controlled morphing of low frequency waveforms",
+    "width": 5,
+    "imageLink": "https://github.com/holmesrichards/vcapf/blob/main/Images/front.jpg?raw=true",
+    "link": "https://github.com/holmesrichards/vcapf",
+    "type": [
+      "PCB + Panel"
+    ],
+    "id": "11575b41-34ba-4dd6-afa6-75ab198f51b4",
+    "name": "VC APF"
+  },
+{
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "Envelope Follower"
+    ],
+    "description": "Envelope Follower based on ARP 2600, with mic and instrument preamplifiers",
+    "width": 5,
+    "imageLink": "https://github.com/holmesrichards/arpenvfol/raw/main/Images/front_view.jpg?raw=true",
+    "link": "https://github.com/holmesrichards/arpenvfol",
+    "type": [
+      "PCB + Panel"
+    ],
+    "id": "f1517f6f-4231-4872-854f-f3f3526b65a4",
+    "name": "Envelope Follower"
+  },
+{
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "LFO"
+    ],
+    "description": "Dual shape variable low frequency oscillators, based on a Kassutronics design",
+    "width": 7.5,
+    "imageLink": "https://github.com/holmesrichards/kdlfo/raw/main/Images/front.jpg?raw=true",
+    "link": "https://github.com/holmesrichards/kdlfo",
+    "type": [
+      "PCB + Panel"
+    ],
+    "id": "446407c5-ab1a-415d-9a92-14a1111960ca",
+    "name": "Dual LFO"
+  },
+{
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "Ring Modulator"
+    ],
+    "description": "Old school ring modulator with active input and output stages, from Ken Stone's Active Real Ring Modulator circuit",
+    "width": 5,
+    "imageLink": "https://github.com/holmesrichards/arrm/raw/main/Images/front.jpg?raw=true",
+    "link": "https://github.com/holmesrichards/arrm",
+    "type": [
+      "PCB + Panel"
+    ],
+    "id": "c7659a0c-3664-46fc-a3a4-bcacdeb2c110",
+    "name": "Ring modulator"
+  },
+{
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "Sample and Hold"
+    ],
+    "description": "Sample and hold / Track and hold from a design by Rene Schmitz",
+    "width": 5,
+    "imageLink": "https://github.com/holmesrichards/yash/raw/main/Images/back.jpg?raw=true",
+    "link": "https://github.com/holmesrichards/yash",
+    "type": [
+      "PCB + Panel"
+    ],
+    "id": "783c7332-051c-4920-8d10-2e9e21c54f68",
+    "name": "YASH"
+  },
+{
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "Waveshaper"
+    ],
+    "description": "Kosmo konversion of Barton Full Wave Dual Rectifiers",
+    "width": 5,
+    "imageLink": "https://github.com/holmesrichards/frontpanels/raw/main/Barton_Dual_Rectifiers/Images/front.jpg?raw=true",
+    "link": "https://github.com/holmesrichards/frontpanels/tree/main/Barton_Dual_Rectifiers",
+    "type": [
+      "Panel"
+    ],
+    "id": "12843036-bbef-4e16-86db-65aef18e3da1",
+    "name": "Dual Rectifiers"
+  },
+{
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "Comparator"
+    ],
+    "description": "Kosmo konversion of YuSynth Comparators",
+    "width": 5,
+    "imageLink": "https://github.com/holmesrichards/frontpanels/raw/main/YuSynth_Comparators/Images/front.jpg?raw=true",
+    "link": "https://github.com/holmesrichards/frontpanels/tree/main/YuSynth_Comparators",
+    "type": [
+      "Panel"
+    ],
+    "id": "898eb344-71fc-4092-baa3-51ae6f360d64",
+    "name": "Comparators"
+  },
+{
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "Oscillator"
+    ],
+    "description": "Full featured 3340 based VCO",
+    "width": 10,
+    "imageLink": "https://github.com/holmesrichards/herovco/raw/main/Images/herovco.jpg?raw=true",
+    "link": "https://github.com/holmesrichards/herovco",
+    "type": [
+      "PCB + Panel"
+    ],
+    "id": "44ca4119-55ac-4f4f-b962-04713ff1ba33",
+    "name": "Hero VCO"
+  },
+{
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "Oscillator"
+    ],
+    "description": "Subsidiary 3340 based VCO",
+    "width": 5,
+    "imageLink": "https://github.com/holmesrichards/sidekickvco/raw/main/Images/sidekickvco.jpg?raw=true",
+    "link": "https://github.com/holmesrichards/sidekickvco",
+    "type": [
+      "PCB + Panel"
+    ],
+    "id": "8c8c37bf-4a11-4fc1-a8ef-32d0bcc4a839",
+    "name": "Sidekick VCO"
   }
 ]

@@ -502,14 +502,14 @@
     "function": [
       "Interface"
     ],
-    "name": "Mikrokosmos",
-    "description": "Kosmo format version of Music Thing Modular's Mikrophonie",
+    "name": "Mikrokosmos II",
+    "description": "Piezo element amplifier inspired by Music Thing Modular's Mikrophonie",
     "width": 2.5,
     "type": [
       "PCB + Panel"
     ],
-    "link": "https://github.com/holmesrichards/Mikrokosmos",
-    "imageLink": "https://github.com/holmesrichards/Mikrokosmos/raw/master/Images/IMG_6220.JPG?raw=true"
+    "link": "https://github.com/holmesrichards/mikrokosmosii",
+    "imageLink": "https://github.com/holmesrichards/mikrokosmosii/raw/main/Images/mikrokosmos.jpg?raw=true"
   },
   {
     "id": "3fe8c809-22f9-4a46-bf47-9762e0d9965e",

@@ -1595,31 +1595,16 @@
 {
     "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
     "function": [
-      "Oscillator"
+      "Clock Generator"
     ],
-    "description": "Full featured 3340 based VCO",
-    "width": 10,
-    "imageLink": "https://github.com/holmesrichards/herovco/raw/main/Images/herovco.jpg?raw=true",
-    "link": "https://github.com/holmesrichards/herovco",
-    "type": [
-      "PCB + Panel"
-    ],
-    "id": "a5f2f2a4-d24b-4be7-932f-0308ea5ecf44",
-    "name": "Hero VCO"
-  },
-{
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Oscillator"
-    ],
-    "description": "Subsidiary 3340 based VCO",
+    "description": "Microcontroller based clock synth module",
     "width": 5,
-    "imageLink": "https://github.com/holmesrichards/sidekickvco/raw/main/Images/sidekickvco.jpg?raw=true",
-    "link": "https://github.com/holmesrichards/sidekickvco",
+    "imageLink": "https://github.com/holmesrichards/clock/Images/clock_front.jpg?raw=true",
+    "link": "https://github.com/holmesrichards/clock",
     "type": [
       "PCB + Panel"
     ],
-    "id": "4271a48f-d335-4194-a850-98804c965544",
-    "name": "Sidekick VCO"
+    "id": "43e103e9-aa08-4fa8-ac65-28b2efbb65ea",
+    "name": "Clock"
   }
 ]

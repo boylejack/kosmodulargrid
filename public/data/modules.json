@@ -1606,5 +1606,20 @@
     ],
     "id": "43e103e9-aa08-4fa8-ac65-28b2efbb65ea",
     "name": "Clock"
+  },
+{
+    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+    "function": [
+      "Utility"
+    ],
+    "description": "Voltage processor with summers and lag",
+    "width": 7.5,
+    "imageLink": "https://github.com/holmesrichards/voltproc/blob/main/Images/voltproc_front.jpg?raw=true",
+    "link": "https://github.com/holmesrichards/voltproc",
+    "type": [
+      "PCB + Panel"
+    ],
+    "id": "170a3a0d-d5b0-439d-be99-ff4ab65d66e1",
+    "name": "Voltage Processor"
   }
 ]
